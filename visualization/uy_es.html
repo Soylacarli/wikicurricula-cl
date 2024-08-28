@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
-<html lang="en" data-lang="es" data-country="Chile_">
+<html lang="en" data-lang="es" data-country="Uruguay_">
 	<head>
-		<title>Wikicurrícula Chile</title>
+		<title>Wikicurrícula Uruguay</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0">
 		<meta name="description" content="The visualization shows the entries with the most average daily visits per school subject">
@@ -15,7 +15,7 @@
 		<!-- social sharing - facebook -->
 		<meta property="og:type" content="article">
 		<meta property="og:title" content="Wikicurrícula Uy">
-		<meta property="og:description" content="Interactive visual report that analyzes Wikipedia articles relevant to the secondary education curriculum in Chile"></meta>
+		<meta property="og:description" content="Interactive visual report that analyzes Wikipedia articles relevant to the secondary education curriculum in Uruguay"></meta>
 		<meta property="og:image" content="https://itwiki-scuola-italiana.toolforge.org/assets/img/wikipedia-scuola-italiana_preview-fb.png" />
 	    <meta property="og:image:width" content="1200" />
 	    <meta property="og:image:height" content="630" />
@@ -24,7 +24,7 @@
 		<!-- social sharing - twitter -->
 		<meta name="twitter:card" content="summary_large_image"></meta>
 		<meta name="twitter:title" content="Wikicurrícula - reporte visual interactivo"></meta>
-		<meta name="twitter:description" content="Interactive visual report analyzing Wikipedia articles relevant to the curriculum of secondary education in Chile"></meta>
+		<meta name="twitter:description" content="Interactive visual report analyzing Wikipedia articles relevant to the curriculum of secondary education in Uruguay"></meta>
 	    <meta property="og:image" content="https://itwiki-scuola-italiana.toolforge.org/assets/img/wikipedia-scuola-italiana_preview-twitter.png" />
 	    <meta name="twitter:site" content="Wikicurrícula" />
 	  	<meta property="og:url" content="https://tools-static.wmflabs.org/wikicurricula/visualization/" />
@@ -36,9 +36,6 @@
 				<div class="container">
 					<h1>
 						<select id="pageSelector" aria-label="page selector">
-							<option value="cl" aria-label="Chilean curriculum - Spanish Wikipedia"><a aria-label="Chilean curriculum - Spanish Wikipedia" href="" title="Chilean curriculum - Spanish Wikipedia" class="noselect">
-								Chilean curriculum - Spanish Wikipedia
-							</a></option>
 							<option value="uy" aria-label="Uruguayan curriculum - Spanish Wikipedia"><a aria-label="Uruguayan curriculum - Spanish Wikipedia" href="" title="Uruguayan curriculum - Spanish Wikipedia" class="noselect">
 								Uruguayan curriculum - Spanish Wikipedia
 							</a></option>
@@ -51,7 +48,9 @@
 							<option value="italy_it" aria-label="Italy curriculum - Italian Wikipedia"><a aria-label="Italy curriculum - Italian Wikipedia" href="" title="Italy curriculum - Italian Wikipedia" class="noselect">
 								Italy curriculum - Italian Wikipedia
 							</a></option>
-							
+							<option value="cl" aria-label="Chilean curriculum - Spanish Wikipedia"><a aria-label="Chilean curriculum - Spanish Wikipedia" href="" title="Chilean curriculum - Spanish Wikipedia" class="noselect">
+								Chilean curriculum - Spanish Wikipedia
+							</a></option>
 						</select>
 					</h1>
 					
@@ -110,16 +109,24 @@
 							<p class="key noselect" data-i18n="subject">Subject</p>
 							<select name="subjects" id="subjects" class="select value noselect">
 								<option data-i18n="all" value="all" aria-label="Todas las asignaturas">Todas las asignaturas</option>
-								<option data-i18n="visual arts" value="Artes Visuales" aria-label="Artes Visuales">Artes Visuales</option>
-								<option data-i18n="natural sciences" value="Ciencias naturales" aria-label="Ciencias naturales">Ciencias Naturales</option>
-								<option data-i18n="physical education and health" value="Educación Física y Salud" aria-label="Educación física y salud">Educación Física y Salud</option>
-								<option data-i18n="history, Geography ans Social Sciences" value="Historia, Geografía y Ciencias Sociales" aria-label="Historia, geografía y ciencias sociales">Historia, Geografía y Ciencias Sociales</option>
-								<option data-i18n="english" value="Inglés" aria-label="Inglés">Inglés</option>
-								<option data-i18n="language and communication" value="Lenguaje y Comunicación" aria-label="Lenguaje y Comunicación">Lenguaje y Comunicación</option>
+								<option data-i18n="biology" value="Biología" aria-label="Biología">Biología</option>
+								<option data-i18n="computer science" value="Ciencias de la computación" aria-label="Ciencias de la computación">Ciencias de la computación</option>
+								<option data-i18n="Physical-chemical-sciences" value="Ciencias físico-químicas" aria-label="Ciencias físico-químicas">Ciencias físico-químicas</option>
+								<option data-i18n="visual-communication" value="Comunicación visual" aria-label="Comunicación visual">Comunicación visual</option>
+								<option data-i18n="communication-and-society" value="Comunicación y sociedad" aria-label="Comunicación y sociedad">Comunicación y sociedad</option>
+								<option data-i18n="design" value="Diseño" aria-label="Diseño">Diseño</option>
+								<option data-i18n="Physical-education-and-recreation" value="Educación física y recreación" aria-label="Educación física y recreación">Educación física y recreación</option>
+								<option data-i18n="music-education" value="Educación musical" aria-label="Educación musical">Educación musical</option>
+								<option data-i18n="training-for-citizenship" value="Formación para la ciudadanía" aria-label="Formación para la ciudadanía">Formación para la ciudadanía</option>
+								<option data-i18n="physics" value="Física" aria-label="Física">Física</option>
+								<option data-i18n="geography" value="Geografía" aria-label="Geografía">Geografía</option>
+								<option data-i18n="history" value="Historia" aria-label="Historia">Historia</option>
+								<option data-i18n="spanish-language" value="Lengua española" aria-label="Lengua española">Lengua española</option>
+								<option data-i18n="literature" value="Literatura" aria-label="Literatura">Literatura</option>
 								<option data-i18n="mathematics" value="Matemática" aria-label="Matemática">Matemática</option>
-								<option data-i18n="music" value="Música" aria-label="Música">Música</option>
-								<option data-i18n="orientation" value="Orientación" aria-label="Orientación">Orientación</option>
-								<option data-i18n="technology" value="Tecnología" aria-label="Tecnología">Tecnología</option>
+								<option data-i18n="chemistry" value="Química" aria-label="Química">Química</option>
+								<option data-i18n="health-and-sexuality" value="Salud y sexualidad" aria-label="Taller de salud y sexualidad">Taller de salud y sexualidad</option>
+								<option data-i18n="technology" value="Tecnologías" aria-label="Tecnologías">Tecnologías</option>
 							</select>
 						</div>
 						<div class="selector">

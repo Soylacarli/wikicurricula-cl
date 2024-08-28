@@ -86,35 +86,35 @@ def get_id_and_subjects_and_grade(results, subject_file):
                 
             if "Programa de " in material:
 
-                if "Lengua Española" in material:
-                    material = "Lengua española"
+                if "Artes Visuales" in material:
+                    material = "Artes Visuales"
 
-                if "Literatura" in material:
-                    material = "Literatura"
+                if "Ciencias Naturales" in material:
+                    material = "Ciencias naturales"
 
-                if "Biología" in material:
-                    material = "Biología"
-
-                if "Física" in material:
-                    material = "física"
+                if "Educación Física" in material:
+                    material = "Educación Física y Salud"
 
                 if "Historia" in material:
-                    material = "Historia"
+                    material = "Historia, Geografía y Ciencias Sociales"
 
-                if "Tecnologías" in material:
-                    material = "Tecnologías"
+                if "Inglés" in material:
+                    material = "Inglés"
+
+                if "Tecnología" in material:
+                    material = "Tecnología"
                 
                 if "Matemática" in material:
                     material = "Matemática"
 
-                if "Ciencias Físico-Químicas" in material:
-                    material = "Ciencias físico-químicas"
+                if "Lenguaje" in material:
+                    material = "Lenguaje y Comunicación"
 
-                if "Química" in material:
-                    material = "Química"
+                if "Música" in material:
+                    material = "Música"
 
-                if "Geografía" in material:
-                    material = "Geografía"
+                if "Orientación" in material:
+                    material = "Orientación"
 
 
                 if "Educación musical" in material or  "Educación Musical" in material:

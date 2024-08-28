@@ -11,6 +11,18 @@
         "featured_template": "{{artículo destacado",
         "display_window_template": "{{artículo bueno"
     },
+    "es_298": {
+        "article_file": "chile_article_file.csv",
+        "subject_file": "chile_es_subject_file.csv",
+        "result_file": "chile_results.txt",
+        "output_file_path":"../visualization/assets/data/chile_es_voci_2023.tsv",
+        "file_to_be_analysed": "chile_article_file.csv",
+        "language": "es",
+        "discussionURL": "discusi%C3%B3n%3A",
+        "warnings_config": 0,
+        "featured_template": "{{artículo destacado",
+        "display_window_template": "{{artículo bueno"
+    },
     "it_38": {
         "article_file": "italy_it_article_file.csv",
         "subject_file": "italy_it_subject_file.csv",

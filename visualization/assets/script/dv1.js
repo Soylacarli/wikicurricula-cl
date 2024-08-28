@@ -100,14 +100,16 @@ pageSelector.addEventListener("change", function () {
 	const selectedPage = pageSelector.value;
 
 	if (selectedPage === "uy") {
-		window.location.href = "index.html";
+		window.location.href = "uy_es.html";
 	} else if (selectedPage === "ghana_en") {
 		window.location.href = "ghana_en.html";
 	} else if (selectedPage === "ghana_tw") {
 		window.location.href = "ghana_tw.html";
 	} else if (selectedPage === "italy_it") {
 		window.location.href = "italy_it.html";
-	}	
+	} else if (selectedPage === "cl") {
+		window.location.href = "index.html";
+	}		
 });
 
 function dv1(year, the_subject, sort) {

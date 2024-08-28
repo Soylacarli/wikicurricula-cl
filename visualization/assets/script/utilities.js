@@ -3,53 +3,24 @@ function apply_color(subject) {
 
 	let color;
 	const history_subjects = [
-		"Historia",
-		"Formación para la ciudadanía",
-		"Geografía",
-		"Social Studies",
-		"Training for citizenship",
-		"Geography",
-		"Storia",
-		"Filosofia",
+		"Historia, Geografía y Ciencias Sociales",
 	];
 
 	const technology_subjects = [
-		"Computing",
-		"Technologies",
-		"Ciencias de la computación",
-		"Tecnologías",
-		"Informatica",
-		"Tecnologia",
-		"Scienze e Tecnologia",
-		"Fisica",
+		"Tecnología",
 	];
 
 	const Communication_and_Art_subjects = [
-		"English Language",
-		"Visual communication",
-		"Communication and society",
-		"Design",
-		"Comunicación visual",
-		"Comunicación y sociedad",
-		"Diseño",
-		"Educación musical",
-		"Lengua española",
-		"Literatura",
-		"Musica",
-		"Storia dell'arte",
-		"Grammatica Italiana",
-		"Grammatica Latina",
-		"Literatura Italiana",
+		"Lenguaje y Comunicación",
+		"Artes Visuales",
+		"Música",
 	];
 
+
 	const personal_development_body_awareness_subjects = [
-		"Educación física y recreación",
-		"Salud y sexualidad",
-		"Physical education and recreation",
-		"Health and sexuality",
-		"Diritto e Economia",
-		"Cittadinanza e costituzione",
-		"Geografia"
+		"Educación Física y Salud",
+		"Inglés",
+		"Orientación"
 	];
 
 	if (history_subjects.includes(subject)) {
