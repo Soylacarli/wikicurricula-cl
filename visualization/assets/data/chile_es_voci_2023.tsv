@@ -1,135 +1,216 @@
 id_wikidata	article	grade	subject	avg_pv	avg_pv_prev	size	size_prev	notes	notes_prev	images	images_prev	references	references_prev	incipit_size	incipit_on_size	incipit_prev	issues	issues_prev	issue_sourceNeeded	issue_clarify	discussion_size	discussion_prev	first_edit	days	all_visits	VdQ	vetrina	commonsGallerys	commonsPage	page_on_wikisource
-Q2826051	Afectividad	scuola media italiana	Ciencias naturales	125	95	7303	-	8	-	3	-	0	-	861	11.79	-	0	-	0	0	2781	-	2006-02-27	6151	678696	0	0			
 Q47728	Afición	scuola media italiana	Inglés	79	103	2420	-	2	-	0	-	0	-	713	29.46	-	0	-	0	0	2348	-	2002-01-15	7655	520820	0	0	Hobbies		
-Q170065	Agente_biológico_patógeno	scuola media italiana	Ciencias naturales	260	149	32075	-	13	-	4	-	0	-	1099	3.43	-	0	-	0	0	2489	-	2004-05-09	6810	979616	0	0			
+Q2826051	Afectividad	scuola media italiana	Ciencias naturales	125	95	7303	-	8	-	3	-	0	-	861	11.79	-	0	-	0	0	2781	-	2006-02-27	6151	678696	0	0			
 Q504514	Acompañamiento_musical	scuola media italiana	Música	19	22	3097	-	0	-	1	-	0	-	2300	74.27	-	0	-	0	0	190	-	2008-07-15	5282	139173	0	0	Accompaniment		
-Q42982	Alergia	scuola media italiana	Ciencias naturales	136	109	76193	-	50	-	6	-	0	-	2687	3.53	-	0	-	0	0	4537	-	2002-02-03	7636	1121724	0	0	Allergies	Allergy	
+Q551997	Alambre	scuola media italiana	Tecnología	70	73	19203	-	5	-	9	-	0	-	1433	7.46	-	0	-	0	0	254	-	2007-05-26	5698	452900	0	0	Wires	Wire	
+Q170065	Agente_biológico_patógeno	scuola media italiana	Ciencias naturales	260	149	32075	-	13	-	4	-	0	-	1099	3.43	-	0	-	0	0	2489	-	2004-05-09	6810	979616	0	0			
+Q1779895	Alzado	scuola media italiana	Tecnología	22	25	1437	-	0	-	1	-	0	-	1247	86.78	-	0	-	0	0	0	-	2006-05-20	6069	144563	0	0	Architectural elevations		
 Q5672073	Ambientación_sonora	scuola media italiana	Música	6	8	11744	-	10	-	1	-	0	-	1775	15.11	-	0	-	0	0	0	-	2005-10-28	6273	65790	0	0			
 Q202763	Alta_Edad_Media	scuola media italiana	Historia, Geografía y Ciencias Sociales	339	326	21660	-	3	-	4	-	0	-	1999	9.23	-	0	-	0	0	3955	-	2003-09-19	7043	1332730	0	0	Early Middle Ages		
+Q42982	Alergia	scuola media italiana	Ciencias naturales	136	109	76193	-	50	-	6	-	0	-	2687	3.53	-	0	-	0	0	4537	-	2002-02-03	7636	1121724	0	0	Allergies	Allergy	
+Q10291312	Anexo:Colores	scuola media italiana	Tecnología	96	88	61031	-	90	-	6	-	0	-	837	1.37	-	0	-	0	0	0	-	2007-08-28	5604	548783	0	0	Colors		
+Q2416019	Anexo:Comparativa_de_navegadores_web	scuola media italiana	Tecnología	18	21	66594	-	27	-	0	-	0	-	260	0.39	-	0	-	0	0	0	-	2005-05-02	6452	122472	0	0			
+Q26180896	Anexo:Definiciones_usuales_en_planificación_de_proyectos	scuola media italiana	Tecnología	2	3	22949	-	1	-	0	-	0	-	143	0.62	-	0	-	0	0	0	-	2013-06-25	3476	23371	0	0			
+Q15542961	Anexo:Uso_global_de_Internet	scuola media italiana	Tecnología	1	1	8197	-	15	-	10	-	0	-	181	2.21	-	0	-	0	0	0	-	2014-02-19	3237	2514	0	0	Internet by country		
+Q1750631	Anexo:Motores_de_búsqueda	scuola media italiana	Tecnología	11	10	3849	-	0	-	0	-	0	-	286	7.43	-	0	-	0	0	0	-	2008-05-24	5334	96216	0	0	Internet search engines		
+Q914874	Anexo:Formatos_de_archivo	scuola media italiana	Tecnología	7	8	20606	-	1	-	11	-	0	-	446	2.16	-	0	-	0	0	0	-	2016-12-09	2213	43701	0	0			
 Q12187	Antibiótico	scuola media italiana	Ciencias naturales	400	338	83576	-	83	-	6	-	0	-	3769	4.51	-	0	-	0	0	18243	-	2003-03-19	7227	2706180	1	0	Antibiotics		
-Q122224	Anticoncepción	scuola media italiana	Ciencias naturales	86	217	127037	-	184	-	18	-	0	-	4467	3.52	-	0	-	0	0	17572	-	2004-02-13	6896	1512829	0	0	Contraception		
 Q79460	Anticuerpo	scuola media italiana	Ciencias naturales	263	240	95188	-	114	-	17	-	0	-	4079	4.29	-	0	-	0	0	9238	-	2003-07-30	7094	2883297	0	1	Antibodies		
+Q122224	Anticoncepción	scuola media italiana	Ciencias naturales	86	217	127035	-	184	-	18	-	0	-	4467	3.52	-	0	-	0	0	17572	-	2004-02-13	6896	1512829	0	0	Contraception		
 Q11772	Antigua_Grecia	scuola media italiana	Historia, Geografía y Ciencias Sociales	1880	1851	113301	-	85	-	31	-	0	-	1799	1.59	-	0	-	0	0	12363	-	2003-12-08	6963	8669839	0	0	Ancient Greece		
 Q1747689	Antigua_Roma	scuola media italiana	Historia, Geografía y Ciencias Sociales	1383	1484	81989	-	28	-	15	-	0	-	3299	4.02	-	0	-	0	0	16174	-	2003-12-04	6967	5276218	0	0	Ancient Rome		
-Q844342	Aparato_genital_femenino	scuola media italiana	Ciencias naturales	1227	1328	8104	-	4	-	2	-	0	-	2187	26.99	-	0	-	0	0	14860	-	2006-03-08	6142	8033435	0	0	Female reproductive system		
 Q846227	Antiviral	scuola media italiana	Ciencias naturales	109	93	19734	-	7	-	1	-	0	-	767	3.89	-	0	-	0	0	206	-	2007-01-18	5826	759753	0	0	Antivirals		
-Q842083	Aparato_reproductor_masculino	scuola media italiana	Ciencias naturales	1514	1614	18986	-	12	-	11	-	0	-	1273	6.7	-	0	-	0	0	5441	-	2005-03-27	6488	9996687	0	0	Male reproductive system		
+Q942582	Análisis_de_costo-beneficio	scuola media italiana	Tecnología	33	42	7125	-	4	-	1	-	0	-	1574	22.09	-	0	-	0	0	1060	-	2008-03-03	5416	679463	0	0	Cost–benefit analysis		
+Q217602	Análisis	scuola media italiana	Tecnología	400	276	19100	-	3	-	1	-	0	-	790	4.14	-	0	-	0	0	68	-	2019-03-08	1394	1597583	0	0	Analysis		
+Q1762403	Análisis_estructural	scuola media italiana	Tecnología	66	71	8962	-	1	-	1	-	0	-	917	10.23	-	0	-	0	0	0	-	2006-02-20	6158	489985	0	0	Structural analysis		
+Q844342	Aparato_genital_femenino	scuola media italiana	Ciencias naturales	1227	1328	8104	-	4	-	2	-	0	-	2187	26.99	-	0	-	0	0	14860	-	2006-03-08	6142	8033435	0	0	Female reproductive system		
+Q82753	Archivo_(informática)	scuola media italiana	Tecnología	333	367	18379	-	2	-	2	-	0	-	436	2.37	-	0	-	0	0	7626	-	2003-08-15	7078	2800479	0	0	Files		
 Q4630639	Arte_del_siglo_XX	scuola media italiana	Artes Visuales	148	135	10238	-	4	-	1	-	0	-	810	7.91	-	0	-	0	0	675	-	2008-07-30	5267	950452	0	0	20th-century art		
+Q842083	Aparato_reproductor_masculino	scuola media italiana	Ciencias naturales	1514	1614	18986	-	12	-	11	-	0	-	1273	6.7	-	0	-	0	0	5441	-	2005-03-27	6488	9996687	0	0	Male reproductive system		
 Q372923	Articulación_(música)	scuola media italiana	Música	53	60	21188	-	12	-	12	-	0	-	942	4.45	-	0	-	0	0	53	-	2008-11-21	5153	272134	0	0	Articulation (music)		
-Q212976	Baja_Edad_Media	scuola media italiana	Historia, Geografía y Ciencias Sociales	317	306	20190	-	10	-	8	-	0	-	689	3.41	-	0	-	0	0	2275	-	2006-02-28	6150	814151	0	0	Late Middle Ages		
 Q4184	Autobiografía	scuola media italiana	Artes Visuales	413	356	19901	-	5	-	5	-	0	-	1325	6.66	-	0	-	0	0	0	-	2005-03-02	6513	3636026	0	0	Autobiographies		
-Q10876	Bacteria	scuola media italiana	Ciencias naturales	1605	1309	139740	-	173	-	41	-	0	-	5882	4.21	-	0	-	0	0	15332	-	2002-01-10	7660	10146037	1	0	Bacteria		
+Q900604	Barra_de_direcciones	scuola media italiana	Tecnología	30	36	3814	-	1	-	8	-	0	-	845	22.16	-	0	-	0	0	290	-	2013-11-21	3327	272479	0	0	Address bar		
+Q212976	Baja_Edad_Media	scuola media italiana	Historia, Geografía y Ciencias Sociales	317	306	20190	-	10	-	8	-	0	-	689	3.41	-	0	-	0	0	2275	-	2006-02-28	6150	814151	0	0	Late Middle Ages		
 Q79757	Barómetro	scuola media italiana	Ciencias naturales	270	293	20832	-	20	-	7	-	0	-	921	4.42	-	0	-	0	0	1583	-	2005-02-13	6530	1886826	0	0	Barometers	Barometer	
 Q843684	Base_(aritmética)	scuola media italiana	Matemática	30	28	2382	-	1	-	0	-	0	-	985	41.35	-	0	-	0	0	221	-	2011-03-23	4301	171089	0	0			
+Q10876	Bacteria	scuola media italiana	Ciencias naturales	1605	1309	139740	-	173	-	41	-	0	-	5882	4.21	-	0	-	0	0	15332	-	2002-01-10	7660	10146037	1	0	Bacteria		
+Q3494251	Bien_de_primera_necesidad	scuola media italiana	Tecnología	6	6	1994	-	2	-	0	-	0	-	1363	68.36	-	0	-	0	0	0	-	2013-02-09	3612	127623	0	0			
+Q28877	Bien_económico	scuola media italiana	Tecnología	407	327	22127	-	18	-	2	-	0	-	834	3.77	-	0	-	0	0	2118	-	2006-05-07	6082	2169151	0	0	Goods (economics)		
 Q864460	Biolixiviación	scuola media italiana	Ciencias naturales	10	11	14779	-	3	-	0	-	0	-	1000	6.77	-	0	-	0	0	0	-	2015-11-20	2598	78211	0	0			
 Q816441	Biorremediación	scuola media italiana	Ciencias naturales	102	84	53794	-	41	-	4	-	0	-	4182	7.77	-	0	-	0	0	2171	-	2004-01-19	6921	655209	0	0	Bioremediation		
+Q30849	Blog	scuola media italiana	Tecnología	321	350	46595	-	18	-	2	-	0	-	1226	2.63	-	0	-	0	0	12940	-	2001-09-26	7766	7239343	0	0	Blogs		
+Q5078274	Boceto	scuola media italiana	Tecnología	176	146	24331	-	22	-	50	-	0	-	6823	28.04	-	0	-	0	0	476	-	2006-06-02	6056	861086	0	0	Sketches		
 Q760132	Calentamiento_deportivo	scuola media italiana	Educación Física y Salud	354	278	6316	-	5	-	1	-	0	-	406	6.43	-	0	-	0	0	95	-	2007-10-16	5555	3105580	0	0	Sports warm-ups	Sports warm-ups	
 Q3240978	Cambio_físico	scuola media italiana	Ciencias naturales	350	277	3379	-	1	-	1	-	0	-	2016	59.66	-	0	-	0	0	0	-	2017-06-28	2012	1457820	0	0			
-Q3655495	Canon_(arte)	scuola media italiana	Historia, Geografía y Ciencias Sociales	75	84	5788	-	6	-	1	-	0	-	468	8.09	-	0	-	0	0	981	-	2010-04-02	4656	500266	0	0			
 Q7942	Calentamiento_global	scuola media italiana	Inglés	1513	1596	71544	-	73	-	7	-	0	-	10880	15.21	-	0	-	0	0	34309	-	2003-08-10	7083	11573488	1	0	Global warming		
+Q185957	Calidad	scuola media italiana	Tecnología	299	245	26655	-	10	-	0	-	0	-	1177	4.42	-	0	-	0	0	5500	-	2004-01-29	6911	2594979	0	0	Quality		
+Q20013708	Cambio_tecnológico_(concepto)	scuola media italiana	Tecnología	121	152	11786	-	10	-	2	-	0	-	1139	9.66	-	0	-	0	0	3280	-	2015-05-13	2789	1210523	0	0			
+Q1761818	Campaña_publicitaria	scuola media italiana	Tecnología	60	41	2398	-	1	-	1	-	0	-	1623	67.68	-	0	-	0	0	0	-	2006-10-17	5919	348032	0	0			
+Q3655495	Canon_(arte)	scuola media italiana	Historia, Geografía y Ciencias Sociales	75	84	5788	-	6	-	1	-	0	-	468	8.09	-	0	-	0	0	981	-	2010-04-02	4656	500266	0	0			
+Q389782	Cartón	scuola media italiana	Tecnología	120	126	9100	-	3	-	4	-	0	-	637	7.0	-	0	-	0	0	298	-	2004-07-22	6736	958227	0	0	Cardboard		
 Q429785	Cartel	scuola media italiana	Artes Visuales	357	280	15415	-	2	-	10	-	0	-	6812	44.19	-	0	-	0	0	4822	-	2004-11-27	6608	1966885	0	0	Posters		
+Q7463524	Cartón_ondulado	scuola media italiana	Tecnología	14	14	8731	-	0	-	2	-	0	-	620	7.1	-	0	-	0	0	2588	-	2004-07-20	6738	113408	0	0	Corrugated fiberboard		
 Q39825	Censo_(estadística)	scuola media italiana	Matemática	357	227	23886	-	20	-	5	-	0	-	2372	9.93	-	0	-	0	0	3749	-	2004-02-13	6896	1786134	0	0	Census		
+Q287198	Chat	scuola media italiana	Tecnología	591	384	10767	-	2	-	2	-	0	-	1142	10.61	-	0	-	0	0	2512	-	2004-08-06	6721	1378692	0	0	Chat software		
+Q1936199	Cerámica_técnica	scuola media italiana	Tecnología	28	35	22109	-	0	-	2	-	0	-	1408	6.37	-	0	-	0	0	1467	-	2004-10-16	6650	335154	0	0	Ceramic engineering		
 Q1329623	Centro_cultural	scuola media italiana	Artes Visuales	28	26	2187	-	1	-	0	-	0	-	1574	71.97	-	0	-	0	0	1235	-	2007-03-21	5764	240543	0	0	Cultural centers		
 Q83864	Ciclo_sexual_femenino	scuola media italiana	Ciencias naturales	410	335	53688	-	75	-	4	-	0	-	500	0.93	-	0	-	0	0	3591	-	2003-08-22	7071	2745009	0	0	Menstrual cycle	Menstrual cycle	
+Q1078351	Ciencias_de_la_comunicación	scuola media italiana	Tecnología	198	172	24275	-	13	-	5	-	0	-	2429	10.01	-	0	-	0	0	2498	-	2004-08-10	6717	1231886	0	0	Communication studies		
 Q3797607	Circuncentro	scuola media italiana	Matemática	81	60	3558	-	5	-	3	-	0	-	797	22.4	-	0	-	0	0	0	-	2012-02-20	3967	162144	0	0			
 Q180436	Cilio	scuola media italiana	Ciencias naturales	149	137	81533	-	76	-	14	-	0	-	1969	2.41	-	0	-	0	0	16918	-	2005-05-28	6426	954511	0	0	Cilia		
 Q133442	Ciudad-Estado	scuola media italiana	Historia, Geografía y Ciencias Sociales	177	178	27865	-	15	-	19	-	0	-	366	1.31	-	0	-	0	0	14026	-	2004-08-02	6725	712892	0	0	City-states		
 Q1020994	Ciudadano			493	452	21483	-	19	-	2	-	0	-	579	2.7	-	0	-	0	0	5532	-	2004-04-05	6844	2674618	0	0			
 Q3122657	Civilizaciones_andinas	scuola media italiana	Historia, Geografía y Ciencias Sociales	231	343	48969	-	7	-	44	-	0	-	4563	9.32	-	0	-	0	0	6481	-	2005-09-25	6306	1870344	0	0			
 Q8432	Civilización	scuola media italiana	Historia, Geografía y Ciencias Sociales	446	503	39358	-	30	-	5	-	0	-	3929	9.98	-	0	-	0	0	12362	-	2003-10-17	7015	2582685	0	0	Civilizations		
-Q12542	Civilización_mexica	scuola media italiana	Historia, Geografía y Ciencias Sociales	1171	1134	73031	-	31	-	32	-	0	-	3242	4.44	-	0	-	0	0	93904	-	2003-09-02	7060	1358418	0	0	Aztec		
 Q20078723	Clamidiasis	scuola media italiana	Ciencias naturales	78	68	21195	-	8	-	4	-	0	-	1186	5.6	-	0	-	0	0	399	-	2007-07-15	5648	1114493	0	0			
+Q12542	Civilización_mexica	scuola media italiana	Historia, Geografía y Ciencias Sociales	1171	1134	73031	-	31	-	32	-	0	-	3242	4.44	-	0	-	0	0	93904	-	2003-09-02	7060	1358418	0	0	Aztec		
 Q7937	Clima	scuola media italiana	Ciencias naturales	2060	2191	48873	-	15	-	7	-	0	-	3804	7.78	-	0	-	0	0	16523	-	2003-06-07	7147	9536890	0	0	Climate		
 Q553270	Cohesión_social	scuola media italiana	Historia, Geografía y Ciencias Sociales	84	76	34285	-	48	-	0	-	0	-	2364	6.9	-	0	-	0	0	0	-	2005-04-07	6477	494788	0	0			
-Q170593	Collage	scuola media italiana	Artes Visuales	374	323	22459	-	13	-	3	-	0	-	705	3.14	-	0	-	0	0	830	-	2005-08-28	6334	2060173	0	0	Collages	Collage	
+Q170593	Collage	scuola media italiana	Artes Visuales	374	323	22460	-	13	-	3	-	0	-	706	3.14	-	0	-	0	0	830	-	2005-08-28	6334	2060173	0	0	Collages	Collage	
+Q376346	Colores_web	scuola media italiana	Tecnología	107	120	27692	-	6	-	1	-	0	-	335	1.21	-	0	-	0	0	630	-	2003-08-31	7062	635025	0	0			
 Q7551001	Complejidad_social	scuola media italiana	Historia, Geografía y Ciencias Sociales	11	10	25857	-	41	-	1	-	0	-	584	2.26	-	0	-	0	0	2250	-	2018-11-08	1514	35237	0	0			
 Q107393962	Composición_fotográfica	scuola media italiana	Artes Visuales	50	55	19486	-	2	-	15	-	0	-	294	1.51	-	0	-	0	0	2355	-	2005-08-31	6331	556726	0	0	Photographic composition		
+Q16338	Computadora_personal	scuola media italiana	Tecnología	467	395	14116	-	1	-	3	-	0	-	1255	8.89	-	0	-	0	0	6657	-	2003-07-22	7102	1917006	0	0	Personal computers	Personal computer	
+Q1937189	Comunicación_organizacional	scuola media italiana	Tecnología	39	38	36079	-	15	-	0	-	0	-	269	0.75	-	0	-	0	0	85	-	2008-10-13	5192	1009675	0	0			
+Q68	Computadora	scuola media italiana	Tecnología	2708	2166	36198	-	16	-	7	-	0	-	5030	13.9	-	0	-	0	0	88698	-	2003-07-26	7098	12445866	0	0	Computers	Computer	
+Q11024	Comunicación	scuola media italiana	Tecnología	2150	2014	35407	-	14	-	19	-	0	-	1466	4.14	-	0	-	0	0	14734	-	2003-07-18	7106	14248271	0	0	Communication	Communication	
 Q8349689	Condición_física	scuola media italiana	Educación Física y Salud	484	383	2352	-	0	-	0	-	0	-	642	27.3	-	0	-	0	0	194	-	2004-11-09	6626	1523700	0	0			
+Q1367353	Confort	scuola media italiana	Tecnología	38	32	2121	-	5	-	3	-	0	-	1391	65.58	-	0	-	0	0	731	-	2006-12-04	5871	259522	0	0			
 Q723748	Confluencia	scuola media italiana	Historia, Geografía y Ciencias Sociales	30	29	2612	-	0	-	2	-	0	-	1311	50.19	-	0	-	0	0	0	-	2006-10-03	5933	145987	0	0	Confluences		
 Q180684	Conflicto	scuola media italiana	Historia, Geografía y Ciencias Sociales	916	762	32114	-	16	-	0	-	0	-	322	1.0	-	0	-	0	0	7046	-	2004-11-15	6620	5227117	0	0	Conflict		
+Q3875186	Construcción	scuola media italiana	Tecnología	226	223	24949	-	27	-	5	-	0	-	2259	9.05	-	0	-	0	0	1901	-	2004-09-18	6678	1459564	0	0	Construction		
+Q827792	Control_de_calidad	scuola media italiana	Tecnología	96	88	14807	-	6	-	1	-	0	-	1367	9.23	-	0	-	0	0	1245	-	2004-01-29	6911	1161970	0	0	Quality control		
 Q62912	Coordenadas_cartesianas	scuola media italiana	Matemática	890	833	20364	-	3	-	9	-	0	-	3439	16.89	-	0	-	0	0	4448	-	2003-10-16	7016	5684514	0	0	Cartesian coordinates		
+Q1058748	Cortar,_copiar_y_pegar	scuola media italiana	Tecnología	82	74	7972	-	3	-	2	-	0	-	1960	24.59	-	0	-	0	0	1877	-	2007-07-06	5657	1061884	0	0	Cut, copy, and paste		
+Q196751	Corte	scuola media italiana	Tecnología	40	39	2868	-	1	-	2	-	0	-	1807	63.01	-	0	-	0	0	49	-	2015-02-17	2874	230947	0	0	Cutting		
+Q9158	Correo_electrónico	scuola media italiana	Tecnología	603	835	35751	-	26	-	4	-	0	-	1769	4.95	-	0	-	0	0	9600	-	2003-08-31	7062	6682304	0	0	E-mail		
+Q240673	Coste	scuola media italiana	Tecnología	149	102	11106	-	2	-	0	-	0	-	1421	12.79	-	0	-	0	0	3324	-	2007-08-19	5613	920418	0	0	Costs		
+Q217106	Croquis	scuola media italiana	Tecnología	320	251	2393	-	1	-	1	-	0	-	973	40.66	-	0	-	0	0	458	-	2006-11-12	5893	1960311	0	0	Sketches		
+Q185715	Coste_de_oportunidad	scuola media italiana	Tecnología	151	117	9577	-	1	-	0	-	0	-	950	9.92	-	0	-	0	0	594	-	2006-04-25	6094	1164234	0	0			
 Q36810	Cuadrilátero	scuola media italiana	Matemática	561	630	55312	-	52	-	13	-	0	-	1357	2.45	-	0	-	0	0	5732	-	2003-07-22	7102	3800144	0	0	Tetragons		
+Q286	Cuero	scuola media italiana	Tecnología	126	144	27411	-	20	-	5	-	0	-	2352	8.58	-	0	-	0	0	2567	-	2006-01-08	6201	966642	0	0	Leather		
 Q11042	Cultura	scuola media italiana	Historia, Geografía y Ciencias Sociales	1433	1225	79850	-	34	-	10	-	0	-	1213	1.52	-	0	-	0	0	27206	-	2002-05-13	7537	11099843	0	0	Culture		
 Q3307661	Célula_eucariota	scuola media italiana	Ciencias naturales	1650	1489	16202	-	5	-	4	-	0	-	1818	11.22	-	0	-	0	0	8484	-	2002-10-24	7373	8913209	0	0	Eukaryotic cells		
-Q7868	Célula	scuola media italiana	Ciencias naturales	2175	1841	83637	-	87	-	23	-	0	-	3853	4.61	-	0	-	0	0	33401	-	2004-03-08	6872	16997616	1	0	Cells		
-Q28567	Cultura_maya	scuola media italiana	Historia, Geografía y Ciencias Sociales	4318	4544	220792	-	377	-	66	-	0	-	6294	2.85	-	0	-	0	0	53797	-	2003-10-20	7012	22455686	0	1	Maya civilization		
 Q17278	Círculo	scuola media italiana	Matemática	474	436	12885	-	7	-	9	-	0	-	356	2.76	-	0	-	0	0	16876	-	2002-01-31	7639	2516030	0	0	Circle geometry	Circle geometry	
+Q28567	Cultura_maya	scuola media italiana	Historia, Geografía y Ciencias Sociales	4318	4544	220792	-	377	-	66	-	0	-	6294	2.85	-	0	-	0	0	53797	-	2003-10-20	7012	22455686	0	1	Maya civilization		
+Q7868	Célula	scuola media italiana	Ciencias naturales	2175	1841	83637	-	87	-	23	-	0	-	3853	4.61	-	0	-	0	0	33401	-	2004-03-08	6872	16997616	1	0	Cells		
 Q661953	Decantación	scuola media italiana	Ciencias naturales	281	268	4751	-	4	-	2	-	0	-	1426	30.01	-	0	-	0	0	3337	-	2007-02-23	5790	2727100	0	0	Decantation		
-Q349	Deporte	scuola media italiana	Educación Física y Salud	1002	1082	34167	-	37	-	7	-	0	-	1694	4.96	-	0	-	0	0	20181	-	2002-02-17	7622	7740139	0	0	Sports	Sport	
 Q3647968	Deporte_en_Chile	scuola media italiana	Educación Física y Salud	31	45	121353	-	144	-	22	-	0	-	5474	4.51	-	0	-	0	0	19785	-	2005-11-01	6269	216804	0	0	Sports in Chile		
-Q780687	Derechos	scuola media italiana	Historia, Geografía y Ciencias Sociales	292	189	23409	-	16	-	3	-	0	-	1019	4.35	-	0	-	0	0	2473	-	2006-01-21	6188	1282140	0	0	Rights		
+Q38746	Derecho_de_autor	scuola media italiana	Tecnología	369	340	101443	-	57	-	4	-	0	-	1622	1.6	-	0	-	0	0	28877	-	2003-08-13	7080	2857549	0	0			
+Q349	Deporte	scuola media italiana	Educación Física y Salud	1002	1082	34167	-	37	-	7	-	0	-	1694	4.96	-	0	-	0	0	20181	-	2002-02-17	7622	7740139	0	0	Sports	Sport	
 Q7174	Democracia	scuola media italiana	Historia, Geografía y Ciencias Sociales	3097	3345	94235	-	63	-	7	-	0	-	3256	3.46	-	0	-	0	0	176224	-	2003-03-25	7221	17905445	0	0	Democracy		
+Q780687	Derechos	scuola media italiana	Historia, Geografía y Ciencias Sociales	292	189	23409	-	16	-	3	-	0	-	1019	4.35	-	0	-	0	0	2473	-	2006-01-21	6188	1282140	0	0	Rights		
+Q4530482	Desarrollo_económico	scuola media italiana	Tecnología	262	218	13302	-	10	-	0	-	0	-	2545	19.13	-	0	-	0	0	2003	-	2006-02-15	6163	2455541	0	0	Economic development		
 Q178605	Deriva_continental	scuola media italiana	Ciencias naturales	436	511	19379	-	16	-	4	-	0	-	556	2.87	-	0	-	0	0	4295	-	2004-03-24	6856	3012797	0	0	Continental drift		
-Q238231	Disco_(topología)	scuola media italiana	Matemática	7	7	1842	-	1	-	1	-	0	-	466	25.3	-	0	-	0	0	2212	-	2007-01-24	5820	27753	0	0	Discs		
-Q1627586	Distribución_de_frecuencias	scuola media italiana	Matemática	192	175	4786	-	1	-	1	-	0	-	689	14.4	-	0	-	0	0	1119	-	2006-02-02	6176	2119065	0	0	Frequency distribution		
 Q101017	Destilación	scuola media italiana	Ciencias naturales	398	404	69304	-	46	-	21	-	0	-	4845	6.99	-	0	-	0	0	4930	-	2004-09-28	6668	3242383	0	0	Distillation		
-Q93184	Dibujo	scuola media italiana	Artes Visuales	967	902	19232	-	8	-	9	-	0	-	730	3.8	-	0	-	0	0	4725	-	2008-04-02	5386	4151546	0	0	Drawing	Drawing	
+Q131201	Desarrollo_sostenible	scuola media italiana	Tecnología	749	769	72365	-	61	-	4	-	0	-	3617	5.0	-	0	-	0	0	27233	-	2003-09-15	7047	7101174	0	0	Sustainable development		
+Q93184	Dibujo	scuola media italiana	Tecnología	967	902	19232	-	8	-	9	-	0	-	730	3.8	-	0	-	0	0	4725	-	2008-04-02	5386	4151546	0	0	Drawing	Drawing	
+Q192521	Dibujo_técnico	scuola media italiana	Tecnología	561	553	19351	-	10	-	11	-	0	-	1811	9.36	-	0	-	0	0	3818	-	2004-12-27	6578	3599511	0	0	Technical drawing		
+Q238231	Disco_(topología)	scuola media italiana	Matemática	7	7	1842	-	1	-	1	-	0	-	466	25.3	-	0	-	0	0	2212	-	2007-01-24	5820	27753	0	0	Discs		
+Q1385450	Disertación	scuola media italiana	Tecnología	90	85	7092	-	4	-	0	-	0	-	1614	22.76	-	0	-	0	0	1007	-	2005-11-07	6263	649900	0	0			
+Q82604	Diseño	scuola media italiana	Tecnología	393	319	26810	-	27	-	4	-	0	-	2196	8.19	-	0	-	0	0	4575	-	2003-10-16	7016	2227179	0	0	Design		
+Q184793	Diseño_asistido_por_computadora	scuola media italiana	Tecnología	118	133	9329	-	0	-	1	-	0	-	2357	25.27	-	0	-	0	0	1908	-	2004-09-24	6672	833006	0	0	Computer-aided design		
+Q1627586	Distribución_de_frecuencias	scuola media italiana	Matemática	192	175	4786	-	1	-	1	-	0	-	689	14.4	-	0	-	0	0	1119	-	2006-02-02	6176	2119065	0	0	Frequency distribution		
+Q1043226	Diseño_de_producto	scuola media italiana	Tecnología	12	18	10913	-	8	-	0	-	0	-	3173	29.08	-	0	-	0	0	1053	-	2012-07-06	3830	338214	0	0	Product design		
 Q1338878	Diversidad_cultural	scuola media italiana	Historia, Geografía y Ciencias Sociales	538	548	5759	-	9	-	3	-	0	-	427	7.41	-	0	-	0	0	7800	-	2007-04-10	5744	4700412	0	0	Cultural diversity		
 Q5110203	Diversidad_sexual	scuola media italiana	Ciencias naturales	135	168	6764	-	12	-	0	-	0	-	4450	65.79	-	0	-	0	0	1101	-	2008-09-06	5229	1230520	0	0			
+Q694975	Documento_electrónico	scuola media italiana	Tecnología	56	61	3501	-	0	-	1	-	0	-	577	16.48	-	0	-	0	0	1503	-	2008-08-15	5251	390244	0	0			
+Q10269116	Durabilidad	scuola media italiana	Tecnología	8	2	4276	-	6	-	0	-	0	-	504	11.79	-	0	-	0	0	0	-	2023-09-25	-268	1766	0	0			
 Q1170080	Dominación_(sociología)	scuola media italiana	Historia, Geografía y Ciencias Sociales	51	58	15681	-	22	-	0	-	0	-	1456	9.29	-	0	-	0	0	2624	-	2014-10-20	2994	379397	0	0			
-Q109517916	Décima	scuola media italiana	Música	200	193	4391	-	1	-	0	-	0	-	3212	73.15	-	0	-	0	0	2816	-	2005-03-21	6494	1201038	0	0			
 Q11395	Domesticación	scuola media italiana	Historia, Geografía y Ciencias Sociales	220	185	51136	-	44	-	8	-	0	-	2819	5.51	-	0	-	0	0	7179	-	2005-08-09	6353	1253725	0	0	Domesticated animals		
+Q109517916	Décima	scuola media italiana	Música	200	193	4391	-	1	-	0	-	0	-	3212	73.15	-	0	-	0	0	2816	-	2005-03-21	6494	1201038	0	0			
 Q11345	Ecuación	scuola media italiana	Matemática	792	636	48834	-	14	-	6	-	0	-	6247	12.79	-	0	-	0	0	19340	-	2003-09-04	7058	4746414	0	0	Equations		
 Q838988	Ecúmene	scuola media italiana	Historia, Geografía y Ciencias Sociales	72	67	3986	-	3	-	1	-	0	-	431	10.81	-	0	-	0	0	0	-	2004-10-23	6643	295728	0	0			
 Q545981	Edición_de_imágenes	scuola media italiana	Artes Visuales	40	64	14640	-	0	-	13	-	0	-	1648	11.26	-	0	-	0	0	0	-	2007-07-18	5645	561688	0	0	Image editing		
-Q1152037	Ejercicio_aeróbico	scuola media italiana	Educación Física y Salud	318	267	12882	-	9	-	0	-	0	-	1317	10.22	-	0	-	0	0	2138	-	2006-08-26	5971	2080701	0	0	Aerobic exercise	Aerobic exercise	
 Q3319076	Edad_de_los_Metales	scuola media italiana	Historia, Geografía y Ciencias Sociales	637	537	64528	-	31	-	39	-	0	-	2383	3.69	-	0	-	0	0	9705	-	2006-10-23	5913	3307860	0	1	Metal ages		
+Q131212	Editor_de_texto	scuola media italiana	Tecnología	100	119	9297	-	1	-	1	-	0	-	1776	19.1	-	0	-	0	0	946	-	2003-07-10	7114	890507	0	0	Text editor software		
+Q2364107	Educación_tecnológica	scuola media italiana	Tecnología	50	48	54652	-	37	-	5	-	0	-	1327	2.43	-	0	-	0	0	20898	-	2007-02-14	5799	461205	0	0			
+Q1034411	Eficiencia	scuola media italiana	Tecnología	348	303	2735	-	1	-	0	-	0	-	700	25.59	-	0	-	0	0	2750	-	2006-06-04	6054	2572655	0	0	Efficiency		
+Q1152037	Ejercicio_aeróbico	scuola media italiana	Educación Física y Salud	318	267	12882	-	9	-	0	-	0	-	1317	10.22	-	0	-	0	0	2138	-	2006-08-26	5971	2080701	0	0	Aerobic exercise	Aerobic exercise	
+Q615445	Eficiencia_económica	scuola media italiana	Tecnología	55	51	50949	-	62	-	1	-	0	-	1286	2.52	-	0	-	0	0	5578	-	2008-01-04	5475	491867	0	0			
 Q483866	Ejercicio_anaeróbico	scuola media italiana	Educación Física y Salud	205	213	2798	-	1	-	1	-	0	-	611	21.84	-	0	-	0	0	1370	-	2006-08-26	5971	1680958	0	0			
 Q778806	Elementos_notables_de_un_triángulo	scuola media italiana	Matemática	46	55	3677	-	0	-	9	-	0	-	416	11.31	-	0	-	0	0	0	-	2014-04-18	3179	156511	0	0	Triangle centers		
-Q12834857	Entrenamiento_de_fuerza	scuola media italiana	Educación Física y Salud	47	51	11480	-	0	-	6	-	0	-	206	1.79	-	0	-	0	0	1293	-	2008-01-04	5475	618779	0	0	Strength training		
-Q8084905	Enfermedad_autoinmunitaria	scuola media italiana	Ciencias naturales	48	55	16671	-	9	-	2	-	0	-	936	5.61	-	0	-	0	0	611	-	2003-07-22	7102	162261	0	0	Autoimmune diseases and disorders		
+Q3908516	Emprendimiento	scuola media italiana	Tecnología	703	576	70815	-	106	-	4	-	0	-	5550	7.84	-	0	-	0	0	10337	-	2010-05-02	4626	1375282	0	0	Entrepreneurship		
+Q6216634	Energías_renovables_en_América_Latina	scuola media italiana	Tecnología	5	4	14047	-	14	-	2	-	0	-	548	3.9	-	0	-	0	0	2913	-	2013-09-02	3407	4074	0	0			
 Q814232	Encuesta	scuola media italiana	Matemática	508	607	23114	-	5	-	1	-	0	-	1057	4.57	-	0	-	0	0	459	-	2004-09-25	6671	3964339	0	0	Survey methodology		
+Q12705	Energía_renovable	scuola media italiana	Tecnología	669	525	70322	-	40	-	15	-	0	-	5370	7.64	-	0	-	0	0	31258	-	2003-03-01	7245	5661805	0	0	Renewable energy		
+Q8084905	Enfermedad_autoinmunitaria	scuola media italiana	Ciencias naturales	48	55	16671	-	9	-	2	-	0	-	936	5.61	-	0	-	0	0	611	-	2003-07-22	7102	162261	0	0	Autoimmune diseases and disorders		
+Q205020	Entorno_de_escritorio	scuola media italiana	Tecnología	25	26	8347	-	2	-	19	-	0	-	2028	24.3	-	0	-	0	0	1638	-	2003-10-06	7026	254707	0	0	Desktop environments		
+Q12834857	Entrenamiento_de_fuerza	scuola media italiana	Educación Física y Salud	47	51	11480	-	0	-	6	-	0	-	206	1.79	-	0	-	0	0	1293	-	2008-01-04	5475	618779	0	0	Strength training		
 Q2742564	Equiprobabilidad	scuola media italiana	Matemática	23	27	1882	-	3	-	0	-	0	-	1469	78.06	-	0	-	0	0	1103	-	2018-03-04	1763	111522	0	0			
-Q11634	Escultura	scuola media italiana	Artes Visuales	683	594	95477	-	117	-	76	-	0	-	2474	2.59	-	0	-	0	0	1214	-	2002-05-16	7534	3765210	0	0	Sculpturing	Sculpture	
+Q956129	Era_de_la_información	scuola media italiana	Tecnología	118	108	19724	-	16	-	2	-	0	-	678	3.44	-	0	-	0	0	2624	-	2006-10-27	5909	712492	0	0	Information Age		
+Q193642	Escala_(cartografía)	scuola media italiana	Tecnología	488	377	18130	-	6	-	3	-	0	-	2770	15.28	-	0	-	0	0	2203	-	2002-10-31	7366	3969951	0	0	Scales (ratio)		
 Q5839490	Esculturas_de_Porcuna	scuola media italiana	Artes Visuales	14	12	16714	-	10	-	2	-	0	-	1556	9.31	-	0	-	0	0	1273	-	2009-01-04	5109	36949	0	0			
 Q294440	Espacio_público	scuola media italiana	Artes Visuales	115	99	11611	-	2	-	2	-	0	-	818	7.05	-	0	-	0	0	2305	-	2005-09-27	6304	757361	0	0	Public space		
+Q11634	Escultura	scuola media italiana	Artes Visuales	683	594	95477	-	117	-	76	-	0	-	2474	2.59	-	0	-	0	0	1214	-	2002-05-16	7534	3765210	0	0	Sculpturing	Sculpture	
 Q4431071	Especialización	scuola media italiana	Historia, Geografía y Ciencias Sociales	54	44	5134	-	3	-	0	-	0	-	717	13.97	-	0	-	0	0	0	-	2011-06-30	4202	409636	0	0			
 Q74560	Espermatozoide	scuola media italiana	Ciencias naturales	313	340	20355	-	12	-	6	-	0	-	690	3.39	-	0	-	0	0	3132	-	2003-07-26	7098	2546841	0	0	Spermatozoa		
 Q11921029	Estilo_musical	scuola media italiana	Música	61	63	10364	-	5	-	0	-	0	-	658	6.35	-	0	-	0	0	2103	-	2005-10-27	6274	642033	0	0			
-Q32090	Estilo_de_vida	scuola media italiana	Inglés	112	127	16162	-	14	-	1	-	0	-	700	4.33	-	0	-	0	0	986	-	2003-10-16	7016	1303909	0	0			
 Q167172	Estereotipo	scuola media italiana	Artes Visuales	774	843	55723	-	38	-	4	-	0	-	2944	5.28	-	0	-	0	0	3545	-	2004-10-28	6638	6131760	0	0	Stereotypes	Stereotypes	
+Q32090	Estilo_de_vida	scuola media italiana	Inglés	112	127	16162	-	14	-	1	-	0	-	700	4.33	-	0	-	0	0	986	-	2003-10-16	7016	1303909	0	0			
+Q1363963	Estrategia_de_mercadotecnia	scuola media italiana	Tecnología	28	17	6967	-	12	-	0	-	0	-	2203	31.62	-	0	-	0	0	0	-	2004-10-14	6652	222302	0	0	Marketing strategy		
+Q1379672	Evaluación	scuola media italiana	Tecnología	319	265	16225	-	17	-	1	-	0	-	1389	8.56	-	0	-	0	0	1553	-	2009-08-10	4891	1512145	0	0	Evaluation		
+Q35986	Estética	scuola media italiana	Tecnología	612	582	24141	-	8	-	1	-	0	-	3050	12.63	-	0	-	0	0	12914	-	2004-08-03	6724	3902620	0	0	Aesthetics		
 Q841628	Estratificación_social	scuola media italiana	Historia, Geografía y Ciencias Sociales	383	409	273635	-	186	-	6	-	0	-	3003	1.1	-	0	-	0	0	4802	-	2004-06-29	6759	2432701	0	0			
-Q83944	Evolución_humana	scuola media italiana	Historia, Geografía y Ciencias Sociales	2170	2121	84540	-	56	-	7	-	0	-	2899	3.43	-	0	-	0	0	150134	-	2002-10-24	7373	10491807	0	0	Human evolution		
+Q320389	Evaluación_de_impacto_ambiental	scuola media italiana	Tecnología	73	72	24628	-	3	-	2	-	0	-	3272	13.29	-	0	-	0	0	1414	-	2005-11-05	6265	882261	0	0	Environmental impact assessment		
+Q5852578	Evaluación_de_la_calidad	scuola media italiana	Tecnología	10	10	3859	-	0	-	0	-	0	-	627	16.25	-	0	-	0	0	0	-	2004-01-29	6911	87367	0	0			
+Q5852582	Evaluación_de_proyectos	scuola media italiana	Tecnología	60	65	20317	-	14	-	1	-	0	-	914	4.5	-	0	-	0	0	4785	-	2006-11-02	5903	922349	0	0			
+Q1756507	Evolución_tecnológica	scuola media italiana	Tecnología	1047	288	10657	-	2	-	0	-	0	-	511	4.79	-	0	-	0	0	0	-	2008-05-18	5340	1765807	0	0			
 Q3062469	Experimento_aleatorio	scuola media italiana	Matemática	88	104	3480	-	0	-	1	-	0	-	972	27.93	-	0	-	0	0	40	-	2007-04-24	5730	766100	0	0	Experiment (probability theory)		
 Q15404978	Expresión_de_género	scuola media italiana	Artes Visuales	64	66	11514	-	19	-	9	-	0	-	803	6.97	-	0	-	0	0	581	-	2021-07-15	534	69109	0	0	Gender expression		
-Q107647	Fagocito	scuola media italiana	Ciencias naturales	100	97	82048	-	130	-	16	-	0	-	4899	5.97	-	0	-	0	0	5970	-	2006-01-14	6195	709148	1	0	Phagocytes		
-Q14890574	Fecundación	scuola media italiana	Ciencias naturales	559	530	35795	-	8	-	7	-	0	-	1279	3.57	-	0	-	0	0	2230	-	2003-09-15	7047	5021754	0	0	Fertilisation	Fertilization	
+Q83944	Evolución_humana	scuola media italiana	Historia, Geografía y Ciencias Sociales	2170	2121	84540	-	56	-	7	-	0	-	2899	3.43	-	0	-	0	0	150134	-	2002-10-24	7373	10491807	0	0	Human evolution		
+Q5854436	Factores_de_la_comunicación	scuola media italiana	Tecnología	182	204	12838	-	6	-	1	-	0	-	578	4.5	-	0	-	0	0	3227	-	2006-03-16	6134	1203497	0	0			
 Q6581072	Femenino	scuola media italiana	Artes Visuales	258	276	4996	-	7	-	1	-	0	-	3277	65.59	-	0	-	0	0	2770	-	2002-05-16	7534	1030137	0	0	Female humans		
-Q244772	Filtración	scuola media italiana	Ciencias naturales	187	208	23450	-	19	-	2	-	0	-	2541	10.84	-	0	-	0	0	656	-	2006-10-28	5908	2799668	0	0	Filtration		
+Q14890574	Fecundación	scuola media italiana	Ciencias naturales	559	530	35795	-	8	-	7	-	0	-	1279	3.57	-	0	-	0	0	2230	-	2003-09-15	7047	5021754	0	0	Fertilisation	Fertilization	
+Q107647	Fagocito	scuola media italiana	Ciencias naturales	100	97	82048	-	130	-	16	-	0	-	4899	5.97	-	0	-	0	0	5970	-	2006-01-14	6195	709148	1	0	Phagocytes		
 Q37739	Feudalismo	scuola media italiana	Historia, Geografía y Ciencias Sociales	1649	1643	62389	-	24	-	14	-	0	-	2914	4.67	-	0	-	0	0	17487	-	2003-08-31	7062	9883852	0	0	Feudalism		
 Q852220	Flexibilidad_(anatomía)	scuola media italiana	Educación Física y Salud	189	212	12002	-	2	-	6	-	0	-	899	7.49	-	0	-	0	0	1554	-	2007-09-17	5584	868096	0	0			
+Q244772	Filtración	scuola media italiana	Ciencias naturales	187	208	23450	-	19	-	2	-	0	-	2541	10.84	-	0	-	0	0	656	-	2006-10-28	5908	2799668	0	0	Filtration		
 Q1663717	Flujo_incompresible	scuola media italiana	Ciencias naturales	66	65	21043	-	0	-	0	-	0	-	1660	7.89	-	0	-	0	0	711	-	2005-10-27	6274	482941	0	0			
-Q5863459	Folclore_de_Chile	scuola media italiana	Música	49	178	41108	-	28	-	10	-	0	-	3794	9.23	-	0	-	0	0	4654	-	2004-02-13	6896	854333	0	0			
 Q36192	Folclore	scuola media italiana	Música	664	719	63112	-	10	-	5	-	0	-	1767	2.8	-	0	-	0	0	18247	-	2002-02-06	7633	3979016	0	0	Folklore		
+Q5863459	Folclore_de_Chile	scuola media italiana	Música	49	178	41108	-	28	-	10	-	0	-	3794	9.23	-	0	-	0	0	4654	-	2004-02-13	6896	854333	0	0			
 Q862597	Forma_musical	scuola media italiana	Música	153	163	48655	-	0	-	0	-	0	-	1675	3.44	-	0	-	0	0	1081	-	2004-08-16	6711	1096705	0	0	Musical form		
-Q11633	Fotografía	scuola media italiana	Artes Visuales	595	614	74510	-	44	-	25	-	0	-	1636	2.2	-	0	-	0	0	12793	-	2002-01-15	7655	3948109	0	0	Photography	Photography	
+Q235557	Formato_de_archivo	scuola media italiana	Tecnología	78	61	5046	-	0	-	0	-	0	-	1269	25.15	-	0	-	0	0	1637	-	2003-07-25	7099	688829	0	0	File formats		
 Q828107	Fotomontaje	scuola media italiana	Artes Visuales	38	45	8127	-	0	-	9	-	0	-	953	11.73	-	0	-	0	0	1624	-	2006-12-17	5858	352349	0	0	Photomontages		
+Q11633	Fotografía	scuola media italiana	Artes Visuales	595	614	74510	-	44	-	25	-	0	-	1636	2.2	-	0	-	0	0	12793	-	2002-01-15	7655	3948109	0	0	Photography	Photography	
 Q66055	Fracción	scuola media italiana	Matemática	691	703	30790	-	12	-	4	-	0	-	1613	5.24	-	0	-	0	0	7553	-	2002-10-31	7366	5264115	0	0	Fractions		
-Q1459435	Fraseo	scuola media italiana	Música	39	40	13369	-	9	-	3	-	0	-	368	2.75	-	0	-	0	0	53	-	2008-01-20	5459	260547	0	0	Periods and phrases (music)		
+Q271680	Framework	scuola media italiana	Tecnología	119	126	7408	-	3	-	1	-	0	-	1048	14.15	-	0	-	0	0	2464	-	2005-05-07	6447	1128655	0	0	Software frameworks		
 Q28503133	Frecuencia_cardíaca_de_reserva	scuola media italiana	Educación Física y Salud	8	9	2569	-	3	-	0	-	0	-	1000	38.93	-	0	-	0	0	0	-	2016-12-13	2209	53326	0	0			
 Q762856	Frecuencia_estadística	scuola media italiana	Matemática	401	284	3107	-	1	-	1	-	0	-	358	11.52	-	0	-	0	0	1480	-	2006-01-12	6197	2128357	0	0	Frequency (statistics)		
+Q1459435	Fraseo	scuola media italiana	Música	39	40	13369	-	9	-	3	-	0	-	368	2.75	-	0	-	0	0	53	-	2008-01-20	5459	260547	0	0	Periods and phrases (music)		
 Q82580	Fricción	scuola media italiana	Ciencias naturales	446	402	20016	-	2	-	9	-	0	-	1054	5.27	-	0	-	0	0	4360	-	2004-11-09	6626	3535143	0	0	Friction		
 Q5870714	Fuerza_de_empuje	scuola media italiana	Ciencias naturales	93	85	3465	-	0	-	0	-	0	-	3373	97.34	-	0	-	0	0	1751	-	2010-03-13	4676	599251	0	0			
 Q11402	Fuerza	scuola media italiana	Ciencias naturales	1364	1252	48560	-	24	-	8	-	0	-	1884	3.88	-	0	-	0	0	10338	-	2001-12-05	7696	8471987	0	0	Forces (physics)		
-Q11412	Gravedad			1077	809	41121	-	27	-	9	-	0	-	1406	3.42	-	0	-	0	0	19723	-	2001-11-14	7717	6445342	0	0	Gravitation		
 Q24961133	Fuerza_muscular	scuola media italiana	Educación Física y Salud	124	124	7183	-	5	-	0	-	0	-	408	5.68	-	0	-	0	0	14	-	2016-04-23	2443	761967	0	0			
+Q11412	Gravedad			1077	809	41121	-	27	-	9	-	0	-	1406	3.42	-	0	-	0	0	19723	-	2001-11-14	7717	6445342	0	0	Gravitation		
 Q764	Fungi	scuola media italiana	Ciencias naturales	1885	1593	92309	-	103	-	37	-	0	-	6585	7.13	-	0	-	0	0	16193	-	2002-01-16	7654	7328242	0	0	Fungi	Fungi	D.P.R. 14 luglio 1995, n. 376 - Regolamento concernente la disciplina della raccolta e della commercializzazione dei funghi epigei freschi e conservati
 Q1007870	Galería_de_arte	scuola media italiana	Artes Visuales	79	71	2953	-	1	-	1	-	0	-	2527	85.57	-	0	-	0	0	0	-	2006-10-12	5924	421728	0	0	Art galleries		
 Q172280	Gas_ideal	scuola media italiana	Ciencias naturales	134	121	19841	-	4	-	0	-	0	-	2691	13.56	-	0	-	0	0	42	-	2005-08-09	6353	1056671	0	0			
 Q11432	Gas	scuola media italiana	Ciencias naturales	680	774	37489	-	11	-	6	-	0	-	2516	6.71	-	0	-	0	0	14	-	2003-07-29	7095	3683506	0	0	Gases		
-Q180388	Gestión_de_residuos	scuola media italiana	Inglés	139	121	42062	-	11	-	3	-	0	-	1025	2.44	-	0	-	0	0	3433	-	2006-12-30	5845	857365	0	0	Waste management	Waste management	
-Q101896	Gonorrea	scuola media italiana	Ciencias naturales	220	239	23577	-	30	-	2	-	0	-	791	3.35	-	0	-	0	0	2550	-	2003-12-21	6950	2515445	0	0	Gonorrhea	Gonorrhoea	
+Q757012	Gestión_de_la_calidad	scuola media italiana	Tecnología	43	52	43448	-	14	-	0	-	0	-	6771	15.58	-	0	-	0	0	160	-	2007-05-13	5711	956327	0	0	Quality management		
+Q180388	Gestión_de_residuos	scuola media italiana	Tecnología	139	121	42062	-	11	-	3	-	0	-	1025	2.44	-	0	-	0	0	3433	-	2006-12-30	5845	857365	0	0	Waste management	Waste management	
+Q816432	Gestor_de_proyecto	scuola media italiana	Tecnología	23	21	3000	-	1	-	0	-	0	-	1640	54.67	-	0	-	0	0	172	-	2006-11-10	5895	248204	0	0			
 Q170161	Gremio	scuola media italiana	Historia, Geografía y Ciencias Sociales	245	255	21403	-	25	-	5	-	0	-	2589	12.1	-	0	-	0	0	3395	-	2004-10-13	6653	1350735	0	0	Guilds		
-Q7476596	Herpes_genital	scuola media italiana	Ciencias naturales	7	6	30	-	0	-	0	-	0	-	27	90.0	-	0	-	0	0	0	-	2017-03-09	2123	377573	0	0	Genital herpes		
-Q185020	Histograma	scuola media italiana	Matemática	373	345	14200	-	1	-	3	-	0	-	2957	20.82	-	0	-	0	0	2713	-	2004-10-07	6659	3135277	0	0	Histograms	Histogram	
+Q101896	Gonorrea	scuola media italiana	Ciencias naturales	220	239	23577	-	30	-	2	-	0	-	791	3.35	-	0	-	0	0	2550	-	2003-12-21	6950	2515445	0	0	Gonorrhea	Gonorrhoea	
+Q28923	Gráfica	scuola media italiana	Tecnología	515	476	4008	-	0	-	0	-	0	-	883	22.03	-	0	-	0	0	949	-	2005-06-24	6399	3971355	0	0	Charts	Chart	
 Q188451	Género_musical	scuola media italiana	Música	507	426	15293	-	11	-	1	-	0	-	1592	10.41	-	0	-	0	0	57509	-	2005-10-27	6274	3157913	0	0	Musical genres		
+Q25304922	Habilidades_del_siglo_XXI	scuola media italiana	Tecnología	54	77	54742	-	48	-	2	-	0	-	7846	14.33	-	0	-	0	0	2526	-	2019-10-30	1158	97640	0	0	21st-century skills		
+Q7476596	Herpes_genital	scuola media italiana	Ciencias naturales	7	6	30	-	0	-	0	-	0	-	27	90.0	-	0	-	0	0	0	-	2017-03-09	2123	377573	0	0	Genital herpes		
+Q39546	Herramienta	scuola media italiana	Tecnología	392	487	20611	-	12	-	7	-	0	-	975	4.73	-	0	-	0	0	4912	-	2004-10-15	6651	2403714	0	0	Tools		
+Q2578402	Herramienta_manual	scuola media italiana	Tecnología	173	213	17515	-	2	-	17	-	0	-	808	4.61	-	0	-	0	0	1428	-	2006-12-21	5854	1634314	0	0	Hand tools		
+Q185020	Histograma	scuola media italiana	Matemática	373	345	14200	-	1	-	3	-	0	-	2957	20.82	-	0	-	0	0	2713	-	2004-10-07	6659	3135277	0	0	Histograms	Histogram	
 Q2713770	Historia_de_la_escultura	scuola media italiana	Artes Visuales	146	165	102562	-	91	-	31	-	0	-	3618	3.53	-	0	-	0	0	2599	-	2010-11-01	4443	798732	0	0	Sculptures by period		
-Q1483324	Iconicidad	scuola media italiana	Artes Visuales	13	15	3603	-	0	-	0	-	0	-	279	7.74	-	0	-	0	0	0	-	2006-10-10	5926	116994	0	0			
+Q465352	Historia_de_la_tecnología	scuola media italiana	Tecnología	650	500	24277	-	1	-	5	-	0	-	1720	7.08	-	0	-	0	0	4553	-	2007-05-08	5716	2643365	0	0	History of technology		
+Q183197	Hoja_de_cálculo	scuola media italiana	Tecnología	453	390	23775	-	8	-	1	-	0	-	519	2.18	-	0	-	0	0	1149	-	2003-08-29	7064	4046194	0	0	Spreadsheet software		
 Q5	Humano	scuola media italiana	Historia, Geografía y Ciencias Sociales	87	88	29	-	0	-	0	-	0	-	26	89.66	-	0	-	0	0	0	-	2006-09-02	5964	453984	0	0	People		
-Q1165905	Identidad_sexual	scuola media italiana	Ciencias naturales	308	324	30640	-	47	-	38	-	0	-	1031	3.36	-	0	-	0	0	9644	-	2006-01-06	6203	1718793	0	0	Sexual identity		
+Q1483324	Iconicidad	scuola media italiana	Artes Visuales	13	15	3603	-	0	-	0	-	0	-	279	7.74	-	0	-	0	0	0	-	2006-10-10	5926	116994	0	0			
 Q3139104	Icono_cultural	scuola media italiana	Artes Visuales	42	40	9583	-	13	-	5	-	0	-	560	5.84	-	0	-	0	0	4020	-	2016-03-31	2466	69023	0	0			
-Q9592	Iglesia_católica	scuola media italiana	Historia, Geografía y Ciencias Sociales	1894	2174	128000	-	147	-	39	-	0	-	4941	3.86	-	0	-	0	0	38042	-	2002-04-26	7554	8617406	0	0	Catholic Church		Autore:Chiesa cattolica
+Q1165905	Identidad_sexual	scuola media italiana	Ciencias naturales	308	324	30640	-	47	-	38	-	0	-	1031	3.36	-	0	-	0	0	9644	-	2006-01-06	6203	1718793	0	0	Sexual identity		
 Q3497127	Iluminación_en_fotografía	scuola media italiana	Artes Visuales	25	32	35656	-	19	-	20	-	0	-	1034	2.9	-	0	-	0	0	1223	-	2005-09-02	6329	283107	0	0	Photographic lighting		
+Q9592	Iglesia_católica	scuola media italiana	Historia, Geografía y Ciencias Sociales	1894	2174	128000	-	147	-	39	-	0	-	4941	3.86	-	0	-	0	0	38042	-	2002-04-26	7554	8617406	0	0	Catholic Church		Autore:Chiesa cattolica
+Q478798	Imagen	scuola media italiana	Tecnología	914	713	10657	-	1	-	5	-	0	-	2268	21.28	-	0	-	0	0	1018	-	2010-11-21	4423	2968640	0	0	Images		
+Q2022868	Impacto_ambiental	scuola media italiana	Tecnología	767	721	44670	-	25	-	5	-	0	-	821	1.84	-	0	-	0	0	18676	-	2005-04-24	6460	5135648	0	0	Environmental impact		
+Q4115079	Impacto_tecnológico	scuola media italiana	Tecnología	90	107	21585	-	11	-	7	-	0	-	2099	9.72	-	0	-	0	0	0	-	2015-11-04	2614	799940	0	0	Technology in society		
 Q48349	Imperio	scuola media italiana	Historia, Geografía y Ciencias Sociales	375	363	19674	-	16	-	1	-	0	-	2455	12.48	-	0	-	0	0	18763	-	2004-01-01	6939	1599828	0	0	Empires		
 Q12544	Imperio_bizantino	scuola media italiana	Historia, Geografía y Ciencias Sociales	1606	1580	94380	-	10	-	14	-	0	-	5834	6.18	-	0	-	0	0	30151	-	2003-07-18	7106	6942314	0	0	Byzantine Empire	Byzantine Empire	
 Q28573	Imperio_incaico	scuola media italiana	Historia, Geografía y Ciencias Sociales	1388	1735	195621	-	52	-	74	-	0	-	4493	2.3	-	0	-	0	0	48080	-	2003-10-16	7016	8100594	0	0	Inca Empire		
@@ -137,134 +218,230 @@ Q10614739	Incentro	scuola media italiana	Matemática	68	49	15169	-	20	-	4	-	0	-	
 Q165309	Inecuación	scuola media italiana	Matemática	224	168	3991	-	1	-	1	-	0	-	983	24.63	-	0	-	0	0	2003	-	2003-11-05	6996	1529097	0	0	Inequalities (mathematics)		
 Q12198	Infecciones_de_transmisión_sexual	scuola media italiana	Ciencias naturales	376	361	33127	-	10	-	6	-	0	-	1557	4.7	-	0	-	0	0	11469	-	2003-10-20	7012	5543515	0	0	Sexually transmitted diseases and disorders		
 Q845734	Infografía	scuola media italiana	Artes Visuales	1083	759	14100	-	12	-	3	-	0	-	1529	10.84	-	0	-	0	0	15339	-	2003-10-20	7012	3981742	0	0	Information graphics		
+Q6030991	Información_y_media_literacy	scuola media italiana	Tecnología	2	1	28564	-	28	-	1	-	0	-	2091	7.32	-	0	-	0	0	0	-	2022-11-01	60	887	0	0			
+Q11028	Información	scuola media italiana	Tecnología	831	668	30854	-	20	-	2	-	0	-	1934	6.27	-	0	-	0	0	5105	-	2003-08-09	7084	4709365	0	0	Information	Information	
+Q647578	Infracción_de_derechos_de_autor	scuola media italiana	Tecnología	33	35	26773	-	25	-	2	-	0	-	1562	5.83	-	0	-	0	0	21857	-	2001-09-27	7765	315461	0	0	Product piracy		
 Q121359	Infraestructura_urbana	scuola media italiana	Historia, Geografía y Ciencias Sociales	64	82	19283	-	12	-	7	-	0	-	2719	14.1	-	0	-	0	0	1161	-	2003-10-16	7016	544127	0	0	Infrastructure		
 Q5916724	Inmunodepresión	scuola media italiana	Ciencias naturales	4	4	32	-	0	-	0	-	0	-	29	90.62	-	0	-	0	0	0	-	2007-06-18	5675	345404	0	0			
 Q1455316	Inmunosupresión	scuola media italiana	Ciencias naturales	27	18	3757	-	2	-	1	-	0	-	1261	33.56	-	0	-	0	0	255	-	2006-03-01	6149	585480	0	0	Immunosuppressants		
+Q174165	Innovación	scuola media italiana	Tecnología	382	363	29840	-	13	-	4	-	0	-	2150	7.21	-	0	-	0	0	9098	-	2005-02-16	6527	4026654	0	0	Innovation		
+Q1469997	Innovación_abierta	scuola media italiana	Tecnología	18	14	8919	-	9	-	1	-	0	-	1355	15.19	-	0	-	0	0	0	-	2009-07-22	4910	139310	0	0			
+Q75	Internet	scuola media italiana	Tecnología	1565	1817	78354	-	77	-	9	-	0	-	5007	6.39	-	0	-	0	0	31969	-	2002-03-10	7601	14510253	0	0	Internet		
 Q6942562	Interpretación_musical	scuola media italiana	Música	33	35	6926	-	0	-	1	-	0	-	1936	27.95	-	0	-	0	0	231	-	2020-10-16	806	44581	0	0			
-Q1659648	Lenguaje_visual	scuola media italiana	Artes Visuales	96	84	9685	-	0	-	3	-	0	-	393	4.06	-	0	-	0	0	2044	-	2007-11-26	5514	859080	0	0			
+Q12176552	Investigación,_desarrollo_e_innovación	scuola media italiana	Tecnología	89	77	4050	-	3	-	1	-	0	-	3141	77.56	-	0	-	0	0	1015	-	2007-10-19	5552	468570	0	0			
+Q42329	Lana	scuola media italiana	Tecnología	190	209	26703	-	17	-	7	-	0	-	1263	4.73	-	0	-	0	0	1664	-	2004-08-23	6704	1122641	0	0	Wool	Wool	
 Q432	Islam	scuola media italiana	Historia, Geografía y Ciencias Sociales	2309	2324	188741	-	221	-	36	-	0	-	9019	4.78	-	0	-	0	0	41205	-	2002-11-02	7364	10859650	0	1	Islam		
+Q1659648	Lenguaje_visual	scuola media italiana	Artes Visuales	96	84	9685	-	0	-	3	-	0	-	393	4.06	-	0	-	0	0	2044	-	2007-11-26	5514	859080	0	0			
 Q45422	Levadura	scuola media italiana	Ciencias naturales	663	506	24297	-	22	-	8	-	0	-	3178	13.08	-	0	-	0	0	1970	-	2002-12-04	7332	3254901	0	0	Yeasts		
 Q170282	Ley_de_elasticidad_de_Hooke	scuola media italiana	Ciencias naturales	415	421	21505	-	1	-	2	-	0	-	1936	9.0	-	0	-	0	0	212	-	2005-06-19	6404	2896648	0	0	Hooke's law		
 Q31212677	Ley_sobre_composición_nutricional_de_los_alimentos_y_su_publicidad	scuola media italiana	Inglés	10	14	24270	-	16	-	2	-	0	-	957	3.94	-	0	-	0	0	1148	-	2017-06-29	2011	29615	0	0			
+Q484275	Liderazgo	scuola media italiana	Tecnología	545	523	37835	-	16	-	2	-	0	-	2267	5.99	-	0	-	0	0	10664	-	2004-08-05	6722	5702705	0	0	Leadership		
 Q22692	Libertad_de_expresión	scuola media italiana	Artes Visuales	311	347	68720	-	66	-	3	-	0	-	7234	10.53	-	0	-	0	0	2905	-	2005-06-29	6394	3339667	0	0	Freedom of speech		
 Q188930	Linfocito_B	scuola media italiana	Ciencias naturales	128	116	35467	-	42	-	8	-	0	-	1542	4.35	-	0	-	0	0	236	-	2003-08-22	7071	1014714	0	0	B cells		
 Q193529	Linfocito_T	scuola media italiana	Ciencias naturales	233	204	34480	-	11	-	10	-	0	-	9208	26.71	-	0	-	0	0	4059	-	2004-09-27	6669	1741032	0	0	T cells		
-Q11435	Líquido	scuola media italiana	Ciencias naturales	554	561	30254	-	22	-	6	-	0	-	1629	5.38	-	0	-	0	0	2133	-	2002-01-16	7654	3998666	0	0	Liquid	Liquid	
+Q42253	Localizador_de_recursos_uniforme	scuola media italiana	Tecnología	149	164	10714	-	2	-	2	-	0	-	2597	24.24	-	0	-	0	0	3413	-	2001-09-29	7763	1685174	0	0	Uniform Resource Locator		
 Q76469	Lágrima	scuola media italiana	Ciencias naturales	69	70	13744	-	12	-	2	-	0	-	496	3.61	-	0	-	0	0	2316	-	2006-03-31	6119	463282	0	0	Tears	Tears	
+Q14674	Lápiz	scuola media italiana	Tecnología	300	328	28392	-	20	-	12	-	0	-	1885	6.64	-	0	-	0	0	5684	-	2003-11-30	6971	1827217	0	0	Pencils		
+Q1228250	Línea	scuola media italiana	Tecnología	308	262	3267	-	2	-	10	-	0	-	2769	84.76	-	0	-	0	0	493	-	2006-06-17	6041	2267998	0	0			
+Q11435	Líquido	scuola media italiana	Ciencias naturales	554	561	30254	-	22	-	6	-	0	-	1629	5.38	-	0	-	0	0	2133	-	2002-01-16	7654	3998666	0	0	Liquid	Liquid	
 Q184204	Macrófago	scuola media italiana	Ciencias naturales	195	195	30414	-	42	-	2	-	0	-	653	2.15	-	0	-	0	0	2324	-	2004-05-02	6817	1527421	0	0	Macrophages		
+Q287	Madera	scuola media italiana	Tecnología	411	380	30346	-	15	-	9	-	0	-	536	1.77	-	0	-	0	0	6692	-	2003-12-10	6961	3000832	0	0	Wood	Wood	
+Q1043452	Mantenimiento	scuola media italiana	Tecnología	180	173	6920	-	3	-	2	-	0	-	752	10.87	-	0	-	0	0	1691	-	2006-04-05	6114	1473413	0	0	Maintenance (activity)		
 Q4918	Mar_Mediterráneo	scuola media italiana	Historia, Geografía y Ciencias Sociales	966	959	43017	-	41	-	43	-	0	-	2836	6.59	-	0	-	0	0	8011	-	2003-09-27	7035	3557333	0	0	Mediterranean Sea	Mediterranean Sea	Mediterraneo
+Q431289	Marca	scuola media italiana	Tecnología	279	223	25661	-	8	-	1	-	0	-	1781	6.94	-	0	-	0	0	1202	-	2008-08-12	5254	1277371	0	0	Brands		
+Q167270	Marca_(registro)	scuola media italiana	Tecnología	287	267	8872	-	4	-	1	-	0	-	1800	20.29	-	0	-	0	0	5597	-	2003-03-06	7240	853061	0	0	Trademarks		
+Q25294	Martillo	scuola media italiana	Tecnología	161	189	19525	-	9	-	10	-	0	-	2429	12.44	-	0	-	0	0	495	-	2003-11-27	6974	1136105	0	0	Hammers	Hammer	
 Q6581097	Masculino	scuola media italiana	Artes Visuales	277	250	27126	-	44	-	2	-	0	-	359	1.32	-	0	-	0	0	2363	-	2002-05-16	7534	873523	0	0	Male humans		
+Q214609	Material	scuola media italiana	Tecnología	388	325	11722	-	4	-	4	-	0	-	1451	12.38	-	0	-	0	0	710	-	2004-07-20	6738	2094911	0	0	Materials		
+Q206615	Material_de_construcción	scuola media italiana	Tecnología	91	53	18105	-	3	-	1	-	0	-	445	2.46	-	0	-	0	0	2216	-	2008-10-28	5177	1118204	0	0	Construction materials		
 Q3405827	Material_natural	scuola media italiana	Artes Visuales	58	44	3403	-	3	-	0	-	0	-	425	12.49	-	0	-	0	0	0	-	2021-11-28	398	34411	0	0	Natural materials		
 Q226995	Mediana_(estadística)	scuola media italiana	Matemática	587	531	20148	-	9	-	3	-	0	-	627	3.11	-	0	-	0	0	1796	-	2006-03-08	6142	4379811	0	0	Median		
+Q12453	Medición	scuola media italiana	Tecnología	394	384	32626	-	12	-	2	-	0	-	1900	5.82	-	0	-	0	0	754	-	2004-03-18	6862	3225730	0	0	Measurement		
 Q734219	Medidas_de_tendencia_central	scuola media italiana	Matemática	635	655	19520	-	8	-	1	-	0	-	1125	5.76	-	0	-	0	0	4127	-	2007-03-09	5776	3514781	0	0	Central tendency (statistics)		
-Q169336	Mezcla	scuola media italiana	Ciencias naturales	877	746	18666	-	11	-	3	-	0	-	2068	11.08	-	0	-	0	0	1189	-	2003-09-24	7038	8672731	0	0	Chemical mixtures		
+Q43619	Medio_ambiente_natural	scuola media italiana	Tecnología	1611	1371	67804	-	52	-	27	-	0	-	4178	6.16	-	0	-	0	0	7344	-	2003-03-03	7243	3140718	0	0	Environment		
+Q17166101	Mensaje_de_texto	scuola media italiana	Tecnología	48	36	13937	-	13	-	1	-	0	-	2429	17.43	-	0	-	0	0	0	-	2006-12-08	5867	80229	0	0			
+Q1064733	Menú_Inicio	scuola media italiana	Tecnología	53	52	13500	-	14	-	10	-	0	-	1147	8.5	-	0	-	0	0	417	-	2007-02-04	5809	584319	0	0	Start menu (Windows)		
+Q267114	Mercadotecnia_en_medios_sociales	scuola media italiana	Tecnología	11	11	4835	-	2	-	1	-	0	-	1858	38.43	-	0	-	0	0	564	-	2009-05-23	4970	90189	0	0			
+Q740777	Merchandising	scuola media italiana	Tecnología	190	170	12179	-	5	-	2	-	0	-	1726	14.17	-	0	-	0	0	3148	-	2004-11-13	6622	1131531	0	0	Merchandising		
 Q13703	Mesoamérica	scuola media italiana	Historia, Geografía y Ciencias Sociales	1131	1381	137424	-	46	-	49	-	0	-	4840	3.52	-	0	-	0	0	16041	-	2003-01-04	7301	9597565	0	0	Mesoamerica		
+Q185698	Metodología	scuola media italiana	Tecnología	496	384	9713	-	3	-	0	-	0	-	996	10.25	-	0	-	0	0	3897	-	2004-09-06	6690	3266133	0	0	Methodology		
+Q1048818	Metáfora_de_escritorio	scuola media italiana	Tecnología	5	5	8085	-	3	-	2	-	0	-	1582	19.57	-	0	-	0	0	1170	-	2011-07-28	4174	32345	0	0	Desktop		
+Q169336	Mezcla	scuola media italiana	Ciencias naturales	877	746	18666	-	11	-	3	-	0	-	2068	11.08	-	0	-	0	0	1189	-	2003-09-24	7038	8672731	0	0	Chemical mixtures		
+Q11266	Microsoft_PowerPoint	scuola media italiana	Tecnología	902	1025	20953	-	12	-	4	-	0	-	951	4.54	-	0	-	0	0	1550	-	2004-06-06	6782	6320079	0	0	Microsoft PowerPoint		
 Q3649349	Moco	scuola media italiana	Ciencias naturales	115	112	4841	-	4	-	1	-	0	-	2502	51.68	-	0	-	0	0	1484	-	2008-01-13	5466	745627	0	0	Mucus		
 Q188224	Moda_(estadística)	scuola media italiana	Matemática	410	412	20071	-	10	-	6	-	0	-	3764	18.75	-	0	-	0	0	2357	-	2004-10-04	6662	3255997	0	0	Mode (statistics)		
 Q159341	Moho	scuola media italiana	Ciencias naturales	327	276	18853	-	22	-	9	-	0	-	2259	11.98	-	0	-	0	0	2171	-	2004-12-11	6594	1290534	0	0	Mold (fungus)	Mold	
-Q49908	Muestreo_(estadística)	scuola media italiana	Matemática	170	149	24988	-	10	-	1	-	0	-	1675	6.7	-	0	-	0	0	3698	-	2004-09-22	6674	1831494	0	0	Sampling (statistics)		
 Q7269	Monarquía	scuola media italiana	Historia, Geografía y Ciencias Sociales	820	760	40300	-	10	-	9	-	0	-	3425	8.5	-	0	-	0	0	12373	-	2003-12-30	6941	4617406	0	0	Monarchy		
+Q4182287	Motor_de_búsqueda	scuola media italiana	Tecnología	315	324	31689	-	43	-	1	-	0	-	1175	3.71	-	0	-	0	0	5602	-	2002-03-03	7608	2821427	0	0	Internet search engines		
+Q49908	Muestreo_(estadística)	scuola media italiana	Matemática	170	149	24988	-	10	-	1	-	0	-	1675	6.7	-	0	-	0	0	3698	-	2004-09-22	6674	1831494	0	0	Sampling (statistics)		
 Q1451575	Mujeres_artistas	scuola media italiana	Artes Visuales	39	28	92764	-	87	-	50	-	0	-	1942	2.09	-	0	-	0	0	0	-	2021-06-29	550	48692	0	0	Women in art		
 Q15284	Municipio	scuola media italiana	Historia, Geografía y Ciencias Sociales	664	618	11915	-	9	-	1	-	0	-	2306	19.35	-	0	-	0	0	1620	-	2003-12-20	6951	2929906	0	0	Municipalities		
 Q33506	Museo	scuola media italiana	Artes Visuales	200	195	82757	-	28	-	33	-	0	-	4191	5.06	-	0	-	0	0	3503	-	2004-04-14	6835	1320772	0	0	Museums	Museum	
+Q11019	Máquina_(tecnología)	scuola media italiana	Tecnología	123	166	33218	-	25	-	8	-	0	-	1106	3.33	-	0	-	0	0	275	-	2015-05-17	2785	473556	0	0	Machines		
 Q373342	Música_popular	scuola media italiana	Música	264	257	21137	-	4	-	8	-	0	-	2462	11.65	-	0	-	0	0	10306	-	2005-10-14	6287	1562176	0	0	Popular music		
+Q6368	Navegador_web	scuola media italiana	Tecnología	696	997	21740	-	21	-	1	-	0	-	2873	13.22	-	0	-	0	0	3055	-	2002-03-20	7591	5476344	0	0	Web browsers		
+Q190258	Necesidad	scuola media italiana	Tecnología	349	318	9569	-	4	-	1	-	0	-	1037	10.84	-	0	-	0	0	1051	-	2005-08-05	6357	2244624	0	0	Needs		
+Q3621310	Necesidades_humanas_fundamentales	scuola media italiana	Tecnología	400	196	18550	-	15	-	0	-	0	-	982	5.29	-	0	-	0	0	46	-	2015-08-29	2681	1666013	0	0			
 Q36422	Neolítico	scuola media italiana	Historia, Geografía y Ciencias Sociales	1085	1058	33613	-	16	-	8	-	0	-	2531	7.53	-	0	-	0	0	8533	-	2003-12-07	6964	5475444	0	0	Neolithic		
 Q188417	Neutrófilo	scuola media italiana	Ciencias naturales	364	327	20293	-	3	-	7	-	0	-	879	4.33	-	0	-	0	0	17	-	2006-07-09	6019	1814688	0	0	Neutrophils		
 Q219142	Notación_científica	scuola media italiana	Matemática	682	689	32281	-	38	-	7	-	0	-	1394	4.32	-	0	-	0	0	17645	-	2004-04-08	6841	4499957	0	0			
 Q459485	Nucleoide	scuola media italiana	Ciencias naturales	120	105	6672	-	4	-	2	-	0	-	920	13.79	-	0	-	0	0	318	-	2003-08-07	7086	624640	0	0			
 Q128393	Nómada	scuola media italiana	Historia, Geografía y Ciencias Sociales	456	491	18712	-	8	-	4	-	0	-	2536	13.55	-	0	-	0	0	1736	-	2005-02-11	6532	3285772	0	0	Nomads		
-Q20154908	Número_decimal	scuola media italiana	Matemática	414	356	23523	-	12	-	1	-	0	-	3072	13.06	-	0	-	0	0	32605	-	2003-10-17	7015	2332571	0	0			
 Q40260	Núcleo_celular	scuola media italiana	Ciencias naturales	1070	911	77274	-	71	-	12	-	0	-	2081	2.69	-	0	-	0	0	23245	-	2002-11-20	7346	7441426	0	1	Cell nucleus		
+Q20154908	Número_decimal	scuola media italiana	Matemática	414	356	23523	-	12	-	1	-	0	-	3072	13.06	-	0	-	0	0	32605	-	2003-10-17	7015	2332571	0	0			
 Q12503	Número_entero	scuola media italiana	Matemática	1309	1178	24556	-	26	-	2	-	0	-	2014	8.2	-	0	-	0	0	16772	-	2001-10-21	7741	8574779	0	0	Integers		
 Q3246226	Oocito	scuola media italiana	Ciencias naturales	84	94	13990	-	12	-	10	-	0	-	1269	9.07	-	0	-	0	0	1325	-	2004-08-13	6714	557689	0	0	Oocytes		
 Q719375	Operando	scuola media italiana	Matemática	9	10	2484	-	0	-	0	-	0	-	655	26.37	-	0	-	0	0	193	-	2009-03-13	5041	86884	0	0			
 Q3962655	Opinión	scuola media italiana	Inglés	185	174	10588	-	12	-	2	-	0	-	236	2.23	-	0	-	0	0	51	-	2018-06-18	1657	743331	0	0	Opinion		
+Q43229	Organización	scuola media italiana	Tecnología	651	689	24809	-	10	-	7	-	0	-	2474	9.97	-	0	-	0	0	5622	-	2003-08-09	7084	5528183	0	0	Organizations		
 Q4430243	Organización_social	scuola media italiana	Historia, Geografía y Ciencias Sociales	311	280	5557	-	1	-	1	-	0	-	1683	30.29	-	0	-	0	0	1167	-	2008-08-20	5246	1900230	0	0	Organizations		
 Q17888	Orientación_sexual	scuola media italiana	Ciencias naturales	335	795	125068	-	154	-	7	-	0	-	3091	2.47	-	0	-	0	0	25883	-	2004-03-16	6864	3124981	0	0	Sexual orientation		
 Q10621500	Ortocentro	scuola media italiana	Matemática	79	73	1965	-	3	-	1	-	0	-	709	36.08	-	0	-	0	0	673	-	2003-07-24	7100	624677	0	0			
-Q53875	Paralelismo_(matemática)	scuola media italiana	Matemática	203	183	25090	-	19	-	10	-	0	-	1810	7.21	-	0	-	0	0	37	-	2003-11-27	6974	1338663	0	0	Parallel lines		
 Q40203	Paleolítico	scuola media italiana	Historia, Geografía y Ciencias Sociales	925	870	30669	-	20	-	17	-	0	-	1579	5.15	-	0	-	0	0	37735	-	2003-10-14	7018	4901993	1	0	Paleolithic		
+Q11472	Papel	scuola media italiana	Tecnología	385	399	58280	-	13	-	15	-	0	-	577	0.99	-	0	-	0	0	8306	-	2003-09-10	7052	3610917	0	0	Paper	Paper	
+Q53875	Paralelismo_(matemática)	scuola media italiana	Matemática	203	183	25090	-	19	-	10	-	0	-	1810	7.21	-	0	-	0	0	37	-	2003-11-27	6974	1338663	0	0	Parallel lines		
 Q45867	Paralelogramo	scuola media italiana	Matemática	369	379	19021	-	10	-	6	-	0	-	988	5.19	-	0	-	0	0	4313	-	2002-01-10	7660	3103049	0	0	Parallelograms		
 Q128700	Pared_celular	scuola media italiana	Ciencias naturales	541	479	19503	-	14	-	4	-	0	-	1398	7.17	-	0	-	0	0	619	-	2003-07-16	7108	4035911	0	0	Cell wall		
+Q2186896	Patrimonio	scuola media italiana	Tecnología	436	393	28463	-	28	-	1	-	0	-	557	1.96	-	0	-	0	0	2290	-	2007-12-02	5508	2962142	0	0	Estate (law)		
+Q210272	Patrimonio_cultural	scuola media italiana	Tecnología	553	463	15529	-	14	-	3	-	0	-	923	5.94	-	0	-	0	0	4278	-	2006-09-05	5961	3494196	0	0	Cultural heritage		
+Q84036549	Patrimonio_cultural_inmaterial_de_la_Humanidad	scuola media italiana	Tecnología	179	181	37897	-	40	-	58	-	0	-	1032	2.72	-	0	-	0	0	1171	-	2008-12-21	5123	961472	0	0	Intangible Cultural Heritage of Humanity		
 Q6293	Película_fotográfica	scuola media italiana	Artes Visuales	71	69	13689	-	0	-	3	-	0	-	987	7.21	-	0	-	0	0	251	-	2003-02-27	7247	330353	0	0	Photographic films		
+Q843894	Pensamiento_crítico	scuola media italiana	Tecnología	457	375	75159	-	3	-	2	-	0	-	344	0.46	-	0	-	0	0	12775	-	2006-06-15	6043	2879358	0	0	Critical thinking		
 Q205034	Perpendicularidad	scuola media italiana	Matemática	338	303	6675	-	0	-	3	-	0	-	667	9.99	-	0	-	0	0	1266	-	2003-11-24	6977	1820494	0	0	Perpendicular		
-Q1900281	Perspectiva	scuola media italiana	Artes Visuales	515	474	98217	-	80	-	64	-	0	-	5419	5.52	-	0	-	0	0	3164	-	2005-08-22	6340	2504108	0	0	Perspective		
+Q1231428	Persuasión	scuola media italiana	Tecnología	197	217	12877	-	4	-	1	-	0	-	1221	9.48	-	0	-	0	0	14	-	2009-10-05	4835	1395179	0	0	Persuasion		
+Q1900281	Perspectiva	scuola media italiana	Tecnología	515	474	98217	-	80	-	64	-	0	-	5419	5.52	-	0	-	0	0	3164	-	2005-08-22	6340	2504108	0	0	Perspective		
 Q25288	Peso	scuola media italiana	Ciencias naturales	632	592	19789	-	10	-	7	-	0	-	1532	7.74	-	0	-	0	0	12033	-	2003-03-07	7239	4799766	0	0	Mass and weight		
 Q1074	Piel	scuola media italiana	Ciencias naturales	374	372	37880	-	31	-	19	-	0	-	1236	3.26	-	0	-	0	0	4079	-	2003-04-30	7185	3502128	0	0	Skin		
-Q11629	Pintura	scuola media italiana	Artes Visuales	934	846	59367	-	43	-	32	-	0	-	2070	3.49	-	0	-	0	0	3024	-	2007-02-20	5793	4679659	0	0	Painting	Painting	
+Q11629	Pintura	scuola media italiana	Tecnología	934	846	59367	-	43	-	32	-	0	-	2070	3.49	-	0	-	0	0	3024	-	2007-02-20	5793	4679659	0	0	Painting	Painting	
+Q1225029	Pintura_digital	scuola media italiana	Tecnología	13	15	26202	-	19	-	6	-	0	-	1334	5.09	-	0	-	0	0	4567	-	2015-02-20	2871	71908	0	0	Digital art		
+Q2112558	Planeamiento_de_proyectos	scuola media italiana	Tecnología	12	10	7137	-	4	-	0	-	0	-	462	6.47	-	0	-	0	0	0	-	2007-04-04	5750	309224	0	0			
+Q309100	Planeamiento	scuola media italiana	Tecnología	193	138	25340	-	2	-	0	-	0	-	755	2.98	-	0	-	0	0	5707	-	2005-10-30	6271	1471458	0	0	Planning		
+Q932522	Planificación_estratégica	scuola media italiana	Tecnología	163	155	31296	-	3	-	0	-	0	-	4756	15.2	-	0	-	0	0	2310	-	2005-02-19	6524	2452838	0	0	Strategic planning		
 Q260899	Plano_(cinematografía)	scuola media italiana	Artes Visuales	48	40	15667	-	1	-	9	-	0	-	156	1.0	-	0	-	0	0	2945	-	2005-10-11	6290	21872	0	0	Camera shot types		
+Q4374193	Planteamiento_del_problema	scuola media italiana	Tecnología	78	85	4207	-	8	-	0	-	0	-	477	11.34	-	0	-	0	0	12	-	2018-06-15	1660	442835	0	0			
+Q18965	Planta_(arquitectura)	scuola media italiana	Tecnología	69	79	30062	-	32	-	62	-	0	-	5907	19.65	-	0	-	0	0	1854	-	2007-04-01	5753	496067	0	0	Floor plans	Floor plan	
+Q5611770	Plataformas_de_crecimiento	scuola media italiana	Tecnología	1	1	3759	-	5	-	1	-	0	-	332	8.83	-	0	-	0	0	1010	-	2019-09-26	1192	1520	0	0			
+Q11474	Plástico	scuola media italiana	Tecnología	480	509	43890	-	16	-	13	-	0	-	2385	5.43	-	0	-	0	0	4939	-	2003-10-16	7016	4381334	0	0	Plastics		
+Q864487	Plástico_biodegradable	scuola media italiana	Tecnología	36	39	11081	-	2	-	4	-	0	-	3702	33.41	-	0	-	0	0	5423	-	2009-12-18	4761	524391	0	0	Biodegradable plastics		
 Q179465	Polifonía	scuola media italiana	Música	144	147	33291	-	21	-	5	-	0	-	942	2.83	-	0	-	0	0	8157	-	2005-09-15	6316	900774	0	0	Polyphony		
 Q11229	Porcentaje	scuola media italiana	Matemática	794	623	20192	-	8	-	9	-	0	-	1629	8.07	-	0	-	0	0	2781	-	2004-08-15	6712	3752815	0	0	Percentages		
 Q33456	Potenciación	scuola media italiana	Matemática	658	637	21671	-	11	-	3	-	0	-	619	2.86	-	0	-	0	0	9840	-	2006-02-04	6174	3870366	0	0	Exponentiation		
-Q14076	Preservativo	scuola media italiana	Ciencias naturales	287	264	49924	-	98	-	7	-	0	-	2724	5.46	-	0	-	0	0	32531	-	2004-05-14	6805	2258646	0	0	Condoms		
+Q46272775	Presentaciones_de_Google	scuola media italiana	Tecnología	130	115	21469	-	37	-	5	-	0	-	897	4.18	-	0	-	0	0	74	-	2020-08-30	853	246459	0	0	Google Slides		
+Q604733	Presentación	scuola media italiana	Tecnología	160	164	3695	-	0	-	4	-	0	-	1812	49.04	-	0	-	0	0	358	-	2007-10-16	5555	1205658	0	0	Presentations		
 Q864088	Preservativo_femenino	scuola media italiana	Ciencias naturales	39	61	7866	-	2	-	1	-	0	-	1342	17.06	-	0	-	0	0	2189	-	2006-01-28	6181	738538	0	0	Female condoms		
+Q14076	Preservativo	scuola media italiana	Ciencias naturales	287	264	49924	-	98	-	7	-	0	-	2724	5.46	-	0	-	0	0	32531	-	2004-05-14	6805	2258646	0	0	Condoms		
 Q39552	Presión	scuola media italiana	Ciencias naturales	715	584	18598	-	11	-	5	-	0	-	1106	5.95	-	0	-	0	0	4040	-	2003-02-22	7252	5067965	0	0	Pressure		
 Q81809	Presión_atmosférica	scuola media italiana	Ciencias naturales	732	672	18824	-	6	-	5	-	0	-	3446	18.31	-	0	-	0	0	10369	-	2003-09-18	7044	5181743	0	0	Atmospheric pressure	Atmospheric pressure	
 Q1149672	Presión_en_un_fluido	scuola media italiana	Ciencias naturales	228	212	8810	-	2	-	1	-	0	-	1640	18.62	-	0	-	0	0	808	-	2007-05-23	5701	1936880	0	0			
+Q6086694	Principio_de_funcionamiento	scuola media italiana	Tecnología	11	12	642	-	0	-	0	-	0	-	382	59.5	-	0	-	0	0	510	-	2011-11-28	4051	79238	0	0			
+Q21573683	Procedimiento_de_construcción	scuola media italiana	Tecnología	3	4	4774	-	1	-	0	-	0	-	4325	90.59	-	0	-	0	0	0	-	2015-05-17	2785	86749	0	0			
 Q82642	Presión_sanguínea	scuola media italiana	Ciencias naturales	300	198	27281	-	9	-	4	-	0	-	3014	11.05	-	0	-	0	0	11889	-	2004-04-08	6841	1706080	0	0	Blood pressure	Blood pressure	
+Q54277	Procesador_de_texto	scuola media italiana	Tecnología	524	639	21673	-	14	-	5	-	0	-	651	3.0	-	0	-	0	0	2351	-	2007-09-04	5597	3974469	0	0	Word processors		
+Q1318104	Proceso_de_mejora_continua	scuola media italiana	Tecnología	58	62	6211	-	7	-	0	-	0	-	1142	18.39	-	0	-	0	0	1841	-	2008-08-20	5246	734530	0	0			
 Q908691	Proceso_reversible	scuola media italiana	Ciencias naturales	40	32	3988	-	3	-	1	-	0	-	2206	55.32	-	0	-	0	0	0	-	2006-05-17	6072	230023	0	0	Entropy		
+Q90257513	Proceso_tecnológico	scuola media italiana	Tecnología	140	109	5920	-	4	-	1	-	0	-	523	8.83	-	0	-	0	0	520	-	2019-10-30	1158	397283	0	0			
+Q739302	Producción_(economía)	scuola media italiana	Tecnología	406	313	10686	-	0	-	2	-	0	-	1852	17.33	-	0	-	0	0	3118	-	2006-02-16	6162	2779422	0	0	Production		
+Q2424752	Producto_(mercadotecnia)	scuola media italiana	Tecnología	251	211	12567	-	5	-	1	-	0	-	1553	12.36	-	0	-	0	0	1066	-	2004-09-02	6694	1258107	0	0	Products		
+Q2115026	Programa_de_presentación	scuola media italiana	Tecnología	101	107	4880	-	13	-	1	-	0	-	225	4.61	-	0	-	0	0	559	-	2003-11-16	6985	759613	0	0	Presentation software		
 Q19081	Prokaryota	scuola media italiana	Ciencias naturales	269	267	70417	-	87	-	7	-	0	-	3271	4.65	-	0	-	0	0	3648	-	2002-05-17	7533	1250749	0	0	Procaryota		
-Q202785	Promedio	scuola media italiana	Matemática	205	225	27487	-	11	-	1	-	0	-	1276	4.64	-	0	-	0	0	1765	-	2009-03-22	5032	337196	0	0			
 Q51379	Proporcionalidad	scuola media italiana	Matemática	315	304	19907	-	3	-	7	-	0	-	151	0.76	-	0	-	0	0	1014	-	2006-01-08	6201	3142939	0	0			
+Q202785	Promedio	scuola media italiana	Matemática	205	225	27487	-	11	-	1	-	0	-	1276	4.64	-	0	-	0	0	1765	-	2009-03-22	5032	337196	0	0			
+Q11259415	Proyección_gráfica	scuola media italiana	Tecnología	68	90	4747	-	1	-	5	-	0	-	471	9.92	-	0	-	0	0	0	-	2003-10-16	7016	533165	0	0	Graphical projection		
+Q832237	Protección_del_medio_ambiente	scuola media italiana	Tecnología	199	124	45417	-	49	-	8	-	0	-	997	2.2	-	0	-	0	0	214	-	2017-10-17	1901	202879	0	0	Environmental protection		
+Q841486	Proyección_isométrica	scuola media italiana	Tecnología	300	360	16445	-	8	-	13	-	0	-	1370	8.33	-	0	-	0	0	2085	-	2005-05-19	6435	1789128	0	0	Isometric projection		
+Q3320364	Prueba_científica	scuola media italiana	Tecnología	22	33	2764	-	0	-	0	-	0	-	1306	47.25	-	0	-	0	0	866	-	2007-03-30	5755	91748	0	0			
+Q170584	Proyecto	scuola media italiana	Tecnología	625	535	11382	-	8	-	1	-	0	-	2479	21.78	-	0	-	0	0	538	-	2005-04-10	6474	4137911	0	0	Projects		
+Q591041	Publicación_científica	scuola media italiana	Tecnología	92	95	20908	-	12	-	5	-	0	-	1449	6.93	-	0	-	0	0	5703	-	2006-08-28	5969	727139	0	0			
+Q37038	Publicidad	scuola media italiana	Tecnología	524	438	48728	-	18	-	9	-	0	-	1233	2.53	-	0	-	0	0	26680	-	2004-08-06	6721	4532413	0	0	Advertising	Advertising	
 Q9064330	Pueblos_originarios	scuola media italiana	Artes Visuales	532	328	5453	-	9	-	2	-	0	-	2085	38.24	-	0	-	0	0	10694	-	2006-09-14	5952	1380854	0	0			
-Q37038	Publicidad	scuola media italiana	Artes Visuales	524	438	48728	-	18	-	9	-	0	-	1233	2.53	-	0	-	0	0	26680	-	2004-08-06	6721	4532413	0	0	Advertising	Advertising	
 Q44946	Punto_(geometría)	scuola media italiana	Matemática	299	306	12308	-	12	-	2	-	0	-	1123	9.12	-	0	-	0	0	1708	-	2003-11-24	6977	3025469	0	0	Points (mathematics)		
 Q2607241	Puesta_en_escena	scuola media italiana	Artes Visuales	102	99	17532	-	2	-	2	-	0	-	1057	6.03	-	0	-	0	0	918	-	2005-12-19	6221	732004	0	0	Mise-en-scène		
+Q36774	Página_web	scuola media italiana	Tecnología	1122	817	8226	-	8	-	1	-	0	-	588	7.15	-	0	-	0	0	6240	-	2003-10-14	7018	4172080	0	0			
 Q1165839	Rango_(estadística)	scuola media italiana	Matemática	177	175	1643	-	0	-	0	-	0	-	1377	83.81	-	0	-	0	0	0	-	2007-03-07	5778	1721927	0	0			
 Q9066946	Reacción_irreversible	scuola media italiana	Ciencias naturales	44	47	6758	-	4	-	0	-	0	-	300	4.44	-	0	-	0	0	447	-	2009-03-18	5036	404043	0	0			
+Q7987	Ratón_(informática)	scuola media italiana	Tecnología	587	536	26268	-	7	-	17	-	0	-	1779	6.77	-	0	-	0	0	86318	-	2003-01-31	7274	3769100	0	0	Computer mice	Computer mouse	
 Q36534	Reacción_química	scuola media italiana	Ciencias naturales	1289	1017	21382	-	10	-	4	-	0	-	2003	9.37	-	0	-	0	0	4678	-	2003-08-13	7080	8359309	0	0	Chemical reactions		
-Q6102651	Rechazo_hiperagudo	scuola media italiana	Ciencias naturales	4	4	5091	-	5	-	0	-	0	-	2456	48.24	-	0	-	0	0	0	-	2013-02-16	3605	19272	0	0			
 Q686980	Reacción_reversible	scuola media italiana	Ciencias naturales	52	66	9077	-	7	-	1	-	0	-	209	2.3	-	0	-	0	0	447	-	2007-02-18	5795	627792	0	0			
-Q132580	Reciclaje	scuola media italiana	Artes Visuales	1131	980	21429	-	17	-	9	-	0	-	2371	11.06	-	0	-	0	0	5766	-	2004-09-23	6673	6593268	0	0	Recycling		
+Q6102651	Rechazo_hiperagudo	scuola media italiana	Ciencias naturales	4	4	5091	-	5	-	0	-	0	-	2456	48.24	-	0	-	0	0	0	-	2013-02-16	3605	19272	0	0			
+Q132580	Reciclaje	scuola media italiana	Tecnología	1131	980	21429	-	17	-	9	-	0	-	2371	11.06	-	0	-	0	0	5766	-	2004-09-23	6673	6593268	0	0	Recycling		
 Q53875	Paralelismo_(matemática)	scuola media italiana	Matemática	203	183	25090	-	19	-	10	-	0	-	1810	7.21	-	0	-	0	0	37	-	2003-11-27	6974	1338663	0	0	Parallel lines		
+Q9067310	Recurso_energético	scuola media italiana	Tecnología	89	106	9439	-	0	-	2	-	0	-	359	3.8	-	0	-	0	0	527	-	2009-07-25	4907	1244615	0	0			
+Q1042783	Regalo_promocional	scuola media italiana	Tecnología	3	2	2660	-	2	-	1	-	0	-	648	24.36	-	0	-	0	0	741	-	2021-01-06	724	2811	0	0	Promotional items		
+Q190667	Regla_de_cálculo	scuola media italiana	Tecnología	88	86	42011	-	6	-	14	-	0	-	2194	5.22	-	0	-	0	0	1627	-	2003-11-11	6990	403814	0	0	Slide rules	Slide rules	
 Q59616986	Regla_de_las_tres_erres	scuola media italiana	Inglés	510	432	5042	-	1	-	1	-	0	-	1064	21.1	-	0	-	0	0	842	-	2008-05-05	5353	2861221	0	0			
 Q1340162	Regla_de_tres	scuola media italiana	Matemática	520	487	14947	-	8	-	2	-	0	-	654	4.38	-	0	-	0	0	569	-	2004-08-04	6723	3328910	0	0	Cross-multiplication		
 Q5402094	Reinos_germánicos	scuola media italiana	Historia, Geografía y Ciencias Sociales	208	201	40550	-	6	-	12	-	0	-	1921	4.74	-	0	-	0	0	9401	-	2008-01-31	5448	996414	0	0			
 Q11990	Reproducción	scuola media italiana	Ciencias naturales	810	621	34005	-	24	-	4	-	0	-	313	0.92	-	0	-	0	0	3052	-	2004-08-29	6698	5959382	0	0	Reproduction		
 Q6106457	Resistencia_cardiovascular	scuola media italiana	Educación Física y Salud	34	20	455	-	0	-	0	-	0	-	401	88.13	-	0	-	0	0	237	-	2007-05-03	5721	177061	0	0			
 Q7270	República	scuola media italiana	Historia, Geografía y Ciencias Sociales	801	848	63190	-	42	-	18	-	0	-	4294	6.8	-	0	-	0	0	13161	-	2003-12-08	6963	5317739	0	0	Republic		
-Q846574	Reutilización	scuola media italiana	Inglés	134	116	5063	-	1	-	2	-	0	-	825	16.29	-	0	-	0	0	22	-	2003-04-28	7187	841770	0	0	Waste reuse		
+Q730920	Resolución_de_problemas	scuola media italiana	Tecnología	153	137	17750	-	24	-	1	-	0	-	1564	8.81	-	0	-	0	0	2969	-	2011-06-29	4203	1187752	0	0	Problem solving		
+Q5190255	Responsabilidad_moral	scuola media italiana	Tecnología	41	41	8934	-	8	-	0	-	0	-	2525	28.26	-	0	-	0	0	689	-	2006-08-07	5990	324410	0	0			
+Q3427818	Responsabilidad_social	scuola media italiana	Tecnología	195	150	10874	-	10	-	0	-	0	-	1062	9.77	-	0	-	0	0	1932	-	2006-09-08	5958	1797784	0	0			
+Q846574	Reutilización	scuola media italiana	Tecnología	134	116	5063	-	1	-	2	-	0	-	825	16.29	-	0	-	0	0	22	-	2003-04-28	7187	841770	0	0	Waste reuse		
 Q180548	Revolución_neolítica	scuola media italiana	Historia, Geografía y Ciencias Sociales	293	301	34882	-	30	-	12	-	0	-	4400	12.61	-	0	-	0	0	44286	-	2006-06-03	6055	1627632	0	0	Neolithic Revolution		
 Q8063	Roca	scuola media italiana	Ciencias naturales	491	413	30408	-	22	-	13	-	0	-	4195	13.8	-	0	-	0	0	1902	-	2003-06-28	7126	2444386	0	0	Rocks		
-Q82480	Roca_sedimentaria	scuola media italiana	Ciencias naturales	410	315	20025	-	4	-	11	-	0	-	2942	14.69	-	0	-	0	0	15	-	2004-03-25	6855	2090908	0	0	Sedimentary rocks	Sedimentary rock	
 Q47069	Roca_metamórfica	scuola media italiana	Ciencias naturales	325	244	20097	-	6	-	22	-	0	-	3419	17.01	-	0	-	0	0	1554	-	2005-04-18	6466	1651644	0	0	Metamorphic rocks	Metamorphic rock	
+Q82480	Roca_sedimentaria	scuola media italiana	Ciencias naturales	410	315	20025	-	4	-	11	-	0	-	2942	14.69	-	0	-	0	0	15	-	2004-03-25	6855	2090908	0	0	Sedimentary rocks	Sedimentary rock	
 Q42045	Roca_ígnea	scuola media italiana	Ciencias naturales	395	352	23405	-	7	-	15	-	0	-	1105	4.72	-	0	-	0	0	1825	-	2005-02-14	6529	2252440	0	0	Igneous rocks	Igneous rock	
 Q6111379	Romance_(música)	scuola media italiana	Música	10	9	2421	-	1	-	0	-	0	-	1033	42.67	-	0	-	0	0	527	-	2012-04-24	3903	56149	0	0			
+Q493615	Rotulador	scuola media italiana	Tecnología	66	67	5380	-	5	-	3	-	0	-	1784	33.16	-	0	-	0	0	0	-	2006-01-30	6179	373506	0	0	Marker pens		
 Q12147	Salud	scuola media italiana	Educación Física y Salud	1230	1017	39374	-	34	-	4	-	0	-	568	1.44	-	0	-	0	0	7358	-	2002-05-03	7547	7686680	0	0	Health		
 Q1141745	Sedentarismo_(antropología)	scuola media italiana	Historia, Geografía y Ciencias Sociales	252	284	6461	-	1	-	3	-	0	-	1067	16.51	-	0	-	0	0	667	-	2007-01-30	5814	2273101	0	0			
+Q2526135	Seguridad	scuola media italiana	Tecnología	558	519	20038	-	26	-	1	-	0	-	2044	10.2	-	0	-	0	0	2094	-	2008-02-13	5435	2578362	0	0			
+Q851598	Seguridad_física	scuola media italiana	Tecnología	41	33	5172	-	5	-	0	-	0	-	769	14.87	-	0	-	0	0	0	-	2018-02-22	1773	128456	0	0	Security		
+Q6123913	Seguridad_en_la_industria	scuola media italiana	Tecnología	35	32	16037	-	0	-	0	-	0	-	1252	7.81	-	0	-	0	0	7750	-	2005-10-20	6281	635798	0	0			
 Q205555	Sentimiento	scuola media italiana	Inglés	376	261	6112	-	3	-	1	-	0	-	865	14.15	-	0	-	0	0	10141	-	2006-02-17	6161	1840818	0	0	Senses		
+Q7406919	Servicio_(economía)	scuola media italiana	Tecnología	531	504	9493	-	0	-	2	-	0	-	1646	17.34	-	0	-	0	0	6348	-	2005-03-25	6490	3086419	0	0	Services		
+Q3220391	Servicio_de_red_social	scuola media italiana	Tecnología	160	1590	36537	-	32	-	2	-	0	-	1430	3.91	-	0	-	0	0	21496	-	2008-03-02	5417	4686238	0	0	Social networking services		
 Q83093	Seta	scuola media italiana	Ciencias naturales	312	285	23176	-	20	-	4	-	0	-	1271	5.48	-	0	-	0	0	10577	-	2003-12-21	6950	1024118	0	0	Mushrooms		
 Q3043188	Sexualidad	scuola media italiana	Ciencias naturales	1147	1199	16115	-	13	-	1	-	0	-	1078	6.69	-	0	-	0	0	14359	-	2002-05-10	7540	8469435	0	0	Sexuality		
 Q154136	Sexualidad_humana	scuola media italiana	Ciencias naturales	485	351	81851	-	110	-	7	-	0	-	2416	2.95	-	0	-	0	0	6928	-	2003-12-08	6963	2780874	0	0	Human sexuality		
-Q79529	Sustancia_química	scuola media italiana	Ciencias naturales	404	347	19098	-	21	-	5	-	0	-	2582	13.52	-	0	-	0	0	10353	-	2006-09-30	5936	2160178	0	0	Chemical substances		
+Q58778	Sistema	scuola media italiana	Tecnología	733	613	20551	-	15	-	2	-	0	-	2359	11.48	-	0	-	0	0	4571	-	2002-05-06	7544	3718414	0	0	Systems		
+Q28501105	Sistema_tecnológico	scuola media italiana	Tecnología	188	148	14519	-	13	-	5	-	0	-	532	3.66	-	0	-	0	0	0	-	2016-07-07	2368	206493	0	0			
+Q7692527	Sistemas_de_innovación_tecnológica	scuola media italiana	Tecnología	38	32	6544	-	5	-	0	-	0	-	404	6.17	-	0	-	0	0	59	-	2015-07-03	2738	132229	0	0			
 Q1059	Sistema_inmunitario	scuola media italiana	Ciencias naturales	341	344	114166	-	158	-	8	-	0	-	5224	4.58	-	0	-	0	0	9832	-	2003-08-21	7072	3313244	0	1	Immune system		
+Q6129866	Sistemas_de_producción_(administración)	scuola media italiana	Tecnología	58	64	10220	-	3	-	0	-	0	-	1263	12.36	-	0	-	0	0	370	-	2011-09-06	4134	261807	0	0			
+Q166142	Software_de_aplicación	scuola media italiana	Tecnología	263	283	21505	-	16	-	3	-	0	-	2049	9.53	-	0	-	0	0	2268	-	2003-08-09	7084	1297997	0	0	Application software		
+Q219416	Sostenibilidad	scuola media italiana	Tecnología	459	311	21271	-	21	-	5	-	0	-	3205	15.07	-	0	-	0	0	12220	-	2004-06-13	6775	2197741	0	0	Sustainability		
+Q79529	Sustancia_química	scuola media italiana	Ciencias naturales	404	347	19098	-	21	-	5	-	0	-	2582	13.52	-	0	-	0	0	10353	-	2006-09-30	5936	2160178	0	0	Chemical substances		
+Q219534	Símbolo_del_reciclaje	scuola media italiana	Tecnología	74	61	2766	-	4	-	2	-	0	-	1381	49.93	-	0	-	0	0	0	-	2017-06-02	2038	178332	0	0	Recycling symbols (3 arrows - folded)		
+Q41083	Sífilis	scuola media italiana	Ciencias naturales	469	453	47370	-	36	-	11	-	0	-	880	1.86	-	0	-	0	0	49290	-	2002-02-05	7634	3867858	0	0	Syphilis		
 Q901870	Tamizado	scuola media italiana	Ciencias naturales	119	110	2039	-	4	-	0	-	0	-	1214	59.54	-	0	-	0	0	211	-	2008-11-06	5168	1396728	0	0	Sieve analysis (soil sciences)		
-Q41083	Sífilis	scuola media italiana	Ciencias naturales	469	453	47398	-	36	-	11	-	0	-	908	1.92	-	0	-	0	0	49290	-	2002-02-05	7634	3867858	0	0	Syphilis		
+Q391956	Tecla_Insertar	scuola media italiana	Tecnología	20	13	3770	-	2	-	1	-	0	-	919	24.38	-	0	-	0	0	0	-	2022-08-12	141	8673	0	0			
+Q6140109	Tecnología_de_materiales	scuola media italiana	Tecnología	68	64	9880	-	0	-	0	-	0	-	325	3.29	-	0	-	0	0	961	-	2004-07-08	6750	725551	0	0			
+Q11016	Tecnología	scuola media italiana	Tecnología	1681	1561	54490	-	25	-	8	-	0	-	2685	4.93	-	0	-	0	0	66632	-	2001-09-29	7763	16022249	0	0	Technology		
+Q5268834	Tecnologías_de_la_información_y_la_comunicación	scuola media italiana	Tecnología	1007	1089	32284	-	33	-	2	-	0	-	1781	5.52	-	0	-	0	0	30949	-	2005-10-07	6294	8423778	0	0			
+Q1662468	Tecnologías_de_la_información_y_la_comunicación_para_la_enseñanza	scuola media italiana	Tecnología	16	12	22324	-	18	-	6	-	0	-	1134	5.08	-	0	-	0	0	4496	-	2013-10-21	3358	63268	0	0			
 Q7950	Tectónica_de_placas	scuola media italiana	Ciencias naturales	559	639	44851	-	8	-	17	-	0	-	5302	11.82	-	0	-	0	0	5453	-	2002-12-16	7320	4127029	0	0	Plate tectonics	Tectonic plate	
+Q28823	Tejido_(textil)	scuola media italiana	Tecnología	206	234	27106	-	29	-	7	-	0	-	2151	7.94	-	0	-	0	0	3687	-	2004-02-19	6890	1307936	0	0	Textiles	Textile	
 Q189214	Tempo	scuola media italiana	Música	263	272	21877	-	10	-	5	-	0	-	1907	8.72	-	0	-	0	0	2362	-	2004-09-27	6669	1374740	0	0	Tempo (music)		
-Q11016	Tecnología	scuola media italiana	Historia, Geografía y Ciencias Sociales	1681	1561	54490	-	25	-	8	-	0	-	2685	4.93	-	0	-	0	0	66632	-	2001-09-29	7763	16022249	0	0	Technology		
 Q183366	Territorio_(subdivisión_de_país)	scuola media italiana	Historia, Geografía y Ciencias Sociales	41	44	3569	-	1	-	1	-	0	-	803	22.5	-	0	-	0	0	0	-	2007-05-22	5702	84627	0	0	Territories (subdivision)		
 Q909284	Test_de_Cooper	scuola media italiana	Educación Física y Salud	343	232	8083	-	1	-	0	-	0	-	497	6.15	-	0	-	0	0	912	-	2004-08-31	6696	1590975	0	0	Cooper test		
-Q2890371	Tiempo_y_clima	scuola media italiana	Ciencias naturales	201	179	11287	-	5	-	4	-	0	-	2221	19.68	-	0	-	0	0	3036	-	2013-01-15	3637	888253	0	0	Weather and climate		
 Q11663	Tiempo_atmosférico	scuola media italiana	Ciencias naturales	326	273	31244	-	39	-	9	-	0	-	3754	12.02	-	0	-	0	0	2739	-	2003-10-14	7018	1737840	0	0	Weather		
+Q2890371	Tiempo_y_clima	scuola media italiana	Ciencias naturales	201	179	11287	-	5	-	4	-	0	-	2221	19.68	-	0	-	0	0	3036	-	2013-01-15	3637	888253	0	0	Weather and climate		
+Q40847	Tijera	scuola media italiana	Tecnología	158	146	21176	-	38	-	7	-	0	-	2439	11.52	-	0	-	0	0	251	-	2005-08-24	6338	629913	0	0	Scissors	Scissors	
 Q626225	Trabajo_en_equipo	scuola media italiana	Educación Física y Salud	286	197	11338	-	6	-	2	-	0	-	2242	19.77	-	0	-	0	0	4715	-	2005-10-09	6292	2513874	0	0	Teamwork		
-Q132595	Trichomonas_vaginalis	scuola media italiana	Ciencias naturales	222	171	16458	-	10	-	3	-	0	-	1562	9.49	-	0	-	0	0	1782	-	2006-08-02	5995	1317992	0	0	Trichomonas vaginalis		
 Q46303	Trapecio_(geometría)	scuola media italiana	Matemática	545	494	20906	-	25	-	13	-	0	-	983	4.7	-	0	-	0	0	1622	-	2004-04-29	6820	2384640	0	0	Trapezoids		
+Q6152049	Trazo_(construcción)	scuola media italiana	Tecnología	21	22	1274	-	0	-	1	-	0	-	368	28.89	-	0	-	0	0	0	-	2009-09-22	4848	169638	0	0			
+Q132595	Trichomonas_vaginalis	scuola media italiana	Ciencias naturales	222	171	16458	-	10	-	3	-	0	-	1562	9.49	-	0	-	0	0	1782	-	2006-08-02	5995	1317992	0	0	Trichomonas vaginalis		
+Q1415049	Turismo_cultural	scuola media italiana	Tecnología	36	45	13606	-	13	-	1	-	0	-	1327	9.75	-	0	-	0	0	2729	-	2007-11-01	5539	583505	0	0	Cultural tourism		
+Q49389	Turismo	scuola media italiana	Tecnología	479	454	147556	-	150	-	53	-	0	-	1179	0.8	-	0	-	0	0	21555	-	2003-01-23	7282	3942753	0	0	Tourism		
+Q2695280	Técnica	scuola media italiana	Tecnología	486	427	5449	-	3	-	0	-	0	-	667	12.24	-	0	-	0	0	0	-	2003-08-09	7084	3350122	0	0	Techniques		
 Q1439691	Técnicas_fotográficas	scuola media italiana	Artes Visuales	20	12	5178	-	0	-	0	-	0	-	639	12.34	-	0	-	0	0	0	-	2005-10-11	6290	131740	0	0	Photographic techniques		
-Q12199	VIH/sida	scuola media italiana	Ciencias naturales	ERROR	ERROR	66591	-	57	-	9	-	0	-	3746	5.63	-	0	-	0	0	4820	-	2003-07-11	7113	ERROR	0	0	AIDS	AIDS	
-Q134808	Vacuna	scuola media italiana	Ciencias naturales	324	263	41547	-	38	-	8	-	0	-	3790	9.12	-	0	-	0	0	18663	-	2004-03-25	6855	4054338	0	0	Vaccines	Vaccine	
+Q12199	VIH/sida	scuola media italiana	Ciencias naturales	ERROR	ERROR	66683	-	57	-	9	-	0	-	3746	5.62	-	0	-	0	0	4820	-	2003-07-11	7113	ERROR	0	0	AIDS	AIDS	
 Q2912517	Valor_(matemáticas)	scuola media italiana	Matemática	13	ERROR	1906	-	2	-	0	-	0	-	1158	60.76	-	0	-	0	0	187	-	2024-01-18	-383	1993	0	0			
+Q134808	Vacuna	scuola media italiana	Ciencias naturales	324	263	41547	-	38	-	8	-	0	-	3790	9.12	-	0	-	0	0	18663	-	2004-03-25	6855	4054338	0	0	Vaccines	Vaccine	
 Q676191	Vaginitis	scuola media italiana	Ciencias naturales	61	64	12634	-	2	-	0	-	0	-	651	5.15	-	0	-	0	0	254	-	2006-06-15	6043	1307917	0	0	Vaginitis		
 Q50701	Variable_(matemática)	scuola media italiana	Matemática	198	136	21578	-	10	-	1	-	0	-	799	3.7	-	0	-	0	0	2013	-	2003-10-16	7016	137108	0	0			
 Q2285707	Variable_categórica	scuola media italiana	Matemática	36	28	2099	-	1	-	0	-	0	-	1485	70.75	-	0	-	0	0	987	-	2016-12-04	2218	149838	0	0			
-Q223266	Vasallaje	scuola media italiana	Historia, Geografía y Ciencias Sociales	262	245	22781	-	9	-	3	-	0	-	993	4.36	-	0	-	0	0	3316	-	2005-08-03	6359	1183871	0	0			
 Q214981	Variación_(música)	scuola media italiana	Música	35	29	13300	-	5	-	27	-	0	-	750	5.64	-	0	-	0	0	1721	-	2004-10-09	6657	120540	0	0	Variations		
-Q44528	Vector	scuola media italiana	Matemática	1073	986	39862	-	8	-	29	-	0	-	3311	8.31	-	0	-	0	0	46450	-	2004-11-19	6616	7532117	0	0	Vectors		
+Q223266	Vasallaje	scuola media italiana	Historia, Geografía y Ciencias Sociales	262	245	22781	-	9	-	3	-	0	-	993	4.36	-	0	-	0	0	3316	-	2005-08-03	6359	1183871	0	0			
+Q44528	Vector	scuola media italiana	Matemática	1073	986	42659	-	14	-	30	-	0	-	4883	11.45	-	0	-	0	0	46450	-	2004-11-19	6616	7532117	0	0	Vectors		
 Q808	Virus	scuola media italiana	Ciencias naturales	1348	1019	172814	-	264	-	50	-	0	-	8682	5.02	-	0	-	0	0	18636	-	2002-01-05	7665	9679692	0	1	Viruses	Virus	
 Q15787	Virus_de_la_inmunodeficiencia_humana	scuola media italiana	Ciencias naturales	790	828	89161	-	71	-	11	-	0	-	2015	2.26	-	0	-	0	0	96844	-	2003-11-17	6984	4392352	0	0	HIV		
 Q977090	Vulvovaginitis_candidiásica	scuola media italiana	Ciencias naturales	17	15	3177	-	1	-	0	-	0	-	800	25.18	-	0	-	0	0	0	-	2009-03-09	5045	123076	0	0	Vaginal yeast infection		
 Q8072	Volcán	scuola media italiana	Ciencias naturales	636	769	50166	-	27	-	26	-	0	-	3491	6.96	-	0	-	0	0	6710	-	2004-03-21	6859	5974210	0	0	Volcanoes	Volcano	
 Q123619	Ácido_nucleico	scuola media italiana	Ciencias naturales	737	648	28801	-	24	-	12	-	0	-	1031	3.58	-	0	-	0	0	1057	-	2003-10-23	7009	5447408	0	0	Nucleic acids		
+Q211294	Álgebra_elemental	scuola media italiana	Matemática	200	140	25368	-	19	-	2	-	0	-	2716	10.71	-	0	-	0	0	1529	-	2007-05-05	5719	846464	0	0	Elementary algebra		
 Q356192	Ángulo_exterior_de_un_polígono	scuola media italiana	Matemática	48	38	3073	-	0	-	1	-	0	-	821	26.72	-	0	-	0	0	312	-	2008-04-03	5385	690529	0	0	Exterior angles		
 Q1156900	Ángulo_interior	scuola media italiana	Matemática	92	95	3287	-	0	-	3	-	0	-	1278	38.88	-	0	-	0	0	331	-	2008-04-02	5386	886126	0	0			
-Q211294	Álgebra_elemental	scuola media italiana	Matemática	200	140	25368	-	19	-	2	-	0	-	2716	10.71	-	0	-	0	0	1529	-	2007-05-05	5719	846464	0	0	Elementary algebra		
