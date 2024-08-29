@@ -13,4 +13,4 @@ data-gathering/uruguay_results.txt
 data-gathering/italy_it_article_file.csv
 data-gathering/italy_it_subject_file.csv
 data-gathering/italy_it_results.txt
-visualization/assets/data
+#visualization/assets/data
