@@ -66,7 +66,7 @@ fetchTranslations(initialLanguage, function (language) {
         
         
         if (lang == 'en') {
-            if (currentTitle === "wikicurrícula uruguay" || currentTitle === "wikicurrícula ghana") {
+            if (currentTitle === "wikicurrícula chile" || currentTitle === "wikicurrícula ghana") {
                 document.getElementById('changeLanguageButton').innerText = "EN"; 
                 newLanguage = 'es'
                 lang = 'es';       
